@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block content %}
+<div class="container py-2">
+    <h3 class="section_header">Latest Sales</h3>
+    {% for sale in sales %}
+    <a class='card coupon-listing my-2' href='{{sale.link}}'>
+        <div class='px-4 py-2 row coupon-row' style='position:relative;'>
+            <span class='col-3 coupon-img'>
+                <img src='{{sale.photo_main.url}}'/>
+            </span>
+            <span class='col-6'>
+                <div>{{sale.title}}</div>
+                <small class='text-mute'>{{sale.description}}</small>
+            </span>
+        </div>
+    </a>
+    {% endfor %}
+    <div>Last updated {{ sales.0.publish_date }}</div>
+</div>
+{% endblock %}

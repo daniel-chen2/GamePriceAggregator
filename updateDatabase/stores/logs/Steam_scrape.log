@@ -1,0 +1,5 @@
+2020-04-28 16:13:00,184 : Successful update for <Link: Far Cry 5-PC-Steam>
+2020-04-28 16:13:02,789 : Successful update for <Link: STAR WARS Jedi: Fallen Order-PC-Steam>
+2020-04-28 16:13:02,791 : Start Time datetime.timedelta(days=18380, seconds=29577, microseconds=843443)
+2020-04-28 16:13:02,793 : End Time datetime.timedelta(days=18380, seconds=29582, microseconds=791237)
+2020-04-28 16:13:02,806 : Time taken: datetime.timedelta(seconds=4, microseconds=947794)

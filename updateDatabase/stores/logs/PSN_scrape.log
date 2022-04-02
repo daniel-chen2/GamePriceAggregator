@@ -1,0 +1,65 @@
+2020-07-13 15:15:43,783 : PSN exception for <Game: MLB 15 THE SHOW>KeyError('default_sku')520
+2020-07-13 15:15:44,159 : PSN exception for <Game: DOOM Eternal>KeyError('default_sku')522
+2020-07-13 15:15:45,571 : PSN exception for <Game: Mario Kart 8 Deluxe>AttributeError("'NoneType' object has no attribute 'replace'")525
+2020-07-13 15:15:45,956 : PSN exception for <Game: NBA 2K20>KeyError('default_sku')526
+2020-07-13 15:15:46,337 : PSN exception for <Game: Borderlands 3>KeyError('default_sku')527
+2020-07-13 15:15:47,792 : PSN exception for <Game: The Legend of Zelda: Link's Awakening>KeyboardInterrupt()529
+2020-07-13 15:15:48,179 : PSN exception for <Game: Madden NFL 20>KeyError('default_sku')530
+2020-07-13 15:15:48,570 : PSN exception for <Game: Tom Clancy's Ghost Recon Breakpoint>KeyError('default_sku')531
+2020-07-13 15:15:48,954 : PSN exception for <Game: NHL 20>KeyError('default_sku')534
+2020-07-13 15:15:49,329 : PSN exception for <Game: Minecraft>KeyError('default_sku')536
+2020-07-13 15:15:50,765 : PSN exception for <Game: Super Smash Bros. Ultimate>KeyboardInterrupt()537
+2020-07-13 15:15:51,153 : PSN exception for <Game: Red Dead Redemption 2>KeyError('default_sku')539
+2020-07-13 15:15:51,261 : PSN exception for <Game: Tom Clancy's Rainbow Six Siege>KeyboardInterrupt()540
+2020-07-13 15:15:51,313 : PSN exception for <Game: Plants vs. Zombies: Battle for Neighborville>KeyboardInterrupt()541
+2020-07-13 15:15:51,362 : PSN exception for <Game: Marvel's Spider-Man>KeyboardInterrupt()542
+2020-07-13 15:15:51,536 : PSN exception for <Game: Catherine>KeyboardInterrupt()543
+2020-07-13 15:15:51,710 : PSN exception for <Game: The Legend of Zelda: Breath of the Wild>KeyboardInterrupt()544
+2020-07-13 15:15:51,886 : PSN exception for <Game: DRAGON QUEST XI: Echoes of an Elusive Age>KeyboardInterrupt()546
+2020-07-13 15:15:51,900 : PSN exception for <Game: Fallout 4>KeyboardInterrupt()548
+2020-07-13 15:15:51,949 : PSN exception for <Game: Anthem>KeyboardInterrupt()549
+2020-07-13 15:15:52,124 : PSN exception for <Game: Overwatch>KeyboardInterrupt()550
+2020-07-13 15:15:52,174 : PSN exception for <Game: Destiny 2>KeyboardInterrupt()552
+2020-07-13 15:15:52,180 : PSN exception for <Game: Apex Legends>KeyboardInterrupt()553
+2020-07-13 15:15:52,232 : PSN exception for <Game: Warframe>KeyboardInterrupt()554
+2020-07-13 15:15:52,408 : PSN exception for <Game: Diablo 3>KeyboardInterrupt()556
+2020-07-13 15:15:52,457 : PSN exception for <Game: Rocket League>KeyboardInterrupt()557
+2020-07-13 15:15:52,507 : PSN exception for <Game: Tom Clancy’s The Division 2>KeyboardInterrupt()559
+2020-07-13 15:15:52,680 : PSN exception for <Game: Fire Emblem: Three Houses>KeyboardInterrupt()560
+2020-07-13 15:15:52,730 : PSN exception for <Game: Kingdom Hearts III>KeyboardInterrupt()561
+2020-07-13 15:15:52,908 : PSN exception for <Game: Cadence of Hyrule - Crypt of the NecroDancer Featuring the Legend of Zelda>KeyboardInterrupt()562
+2020-07-13 15:15:52,963 : PSN exception for <Game: Metro Exodus>KeyboardInterrupt()563
+2020-07-13 15:15:53,018 : PSN exception for <Game: Sekiro: Shadows Die Twice>KeyboardInterrupt()564
+2020-07-13 15:15:53,019 : PSN exception for <Game: Days Gone>KeyboardInterrupt()565
+2020-07-13 15:15:53,195 : PSN exception for <Game: Pokémon Sword and Shield>KeyboardInterrupt()566
+2020-07-13 15:15:53,247 : PSN exception for <Game: Outer Wilds>KeyboardInterrupt()567
+2020-07-13 15:15:53,299 : PSN exception for <Game: Star Wars Jedi: Fallen Order>KeyboardInterrupt()570
+2020-07-13 15:15:53,313 : PSN exception for <Game: The Outer Worlds>KeyboardInterrupt()572
+2020-07-13 15:15:53,364 : PSN exception for <Game: Assassin's Creed Odyssey>KeyboardInterrupt()574
+2020-07-13 15:15:53,377 : PSN exception for <Game: Monster Hunter: World>KeyboardInterrupt()575
+2020-07-13 15:15:53,552 : PSN exception for <Game: Into the Breach>KeyboardInterrupt()576
+2020-07-13 15:15:53,601 : PSN exception for <Game: Celeste>KeyboardInterrupt()577
+2020-07-13 15:15:53,653 : PSN exception for <Game: Dragon Ball Z: Kakarot>KeyboardInterrupt()580
+2020-07-13 15:15:53,665 : PSN exception for <Game: Final Fantasy VII Remake>KeyboardInterrupt()581
+2020-07-13 15:15:53,839 : PSN exception for <Game: Warcraft III: Reforged>KeyboardInterrupt()582
+2020-07-13 15:15:53,895 : PSN exception for <Game: Darksiders Genesis>KeyboardInterrupt()584
+2020-07-13 15:15:54,069 : PSN exception for <Game: Ori and the Will of the Wisps>KeyboardInterrupt()586
+2020-07-13 15:15:54,125 : PSN exception for <Game: Totally Reliable Delivery Service>KeyboardInterrupt()587
+2020-07-13 15:15:54,305 : PSN exception for <Game: STAR WARS Battlefront 2 (2005)>KeyboardInterrupt()589
+2020-07-13 15:15:54,316 : PSN exception for <Game: Assassin's Creed Origins>KeyboardInterrupt()590
+2020-07-13 15:15:54,500 : PSN exception for <Game: Pokémon Ultra Sun, Ultra Moon>KeyboardInterrupt()592
+2020-07-13 15:15:54,512 : PSN exception for <Game: Call of Duty: Infinite Warfare>KeyboardInterrupt()594
+2020-07-13 15:15:54,575 : PSN exception for <Game: Tom Clancy’s The Division>KeyboardInterrupt()596
+2020-07-13 15:15:54,638 : PSN exception for <Game: FINAL FANTASY XV>KeyboardInterrupt()598
+2020-07-13 15:15:54,689 : PSN exception for <Game: Titanfall 2>KeyboardInterrupt()599
+2020-07-13 15:15:54,865 : PSN exception for <Game: Warhammer 40,000: Regicide>KeyboardInterrupt()600
+2020-07-13 15:15:54,916 : PSN exception for <Game: MotoGP 20>KeyboardInterrupt()601
+2020-07-13 15:15:55,090 : PSN exception for <Game: Mount & Blade II: Bannerlord>KeyboardInterrupt()604
+2020-07-13 15:15:55,263 : PSN exception for <Game: XCOM: Chimera Squad>KeyboardInterrupt()605
+2020-07-13 15:15:55,316 : PSN exception for <Game: The Jackbox Party Quintpack>KeyboardInterrupt()606
+2020-07-13 15:15:55,372 : PSN exception for <Game: The Jackbox Party Pack 2>KeyboardInterrupt()608
+2020-07-13 15:15:55,374 : PSN exception for <Game: The Jackbox Party Pack 3>KeyboardInterrupt()609
+2020-07-13 15:15:55,424 : PSN exception for <Game: The Jackbox Party Pack 4>KeyboardInterrupt()610
+2020-07-13 15:15:55,474 : PSN exception for <Game: The Jackbox Party Pack 5>KeyboardInterrupt()611
+2020-07-13 15:15:55,649 : PSN exception for <Game: Tabletop Simulator>KeyboardInterrupt()613
+2020-07-13 15:15:55,698 : PSN exception for <Game: The Elder Scrolls Online: Tamriel Unlimited>KeyboardInterrupt()615

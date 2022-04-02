@@ -1,0 +1,5 @@
+2020-04-28 16:19:45,482 : Successful update for <Link: Far Cry 5-Xbox-One-Microsoft>
+2020-04-28 16:19:50,989 : Microsoft_Store exception for <Game: STAR WARS Jedi: Fallen Order>AttributeError("'NoneType' object has no attribute 'save'")2
+2020-04-28 16:19:50,990 : Start Time datetime.timedelta(days=18380, seconds=29979, microseconds=519089)
+2020-04-28 16:19:50,992 : End Time datetime.timedelta(days=18380, seconds=29990, microseconds=990072)
+2020-04-28 16:19:50,997 : Time taken: datetime.timedelta(seconds=11, microseconds=470983)

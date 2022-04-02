@@ -1,0 +1,110 @@
+2020-07-13 20:09:48,686 : gmg exception for <Game: MLB 15 THE SHOW>UnboundLocalError("local variable 'current_link' referenced before assignment")520
+2020-07-13 20:09:50,156 : Successful update for <Link: DOOM Eternal-PC-Green Man Gaming>
+2020-07-13 20:09:51,603 : gmg exception for <Game: Mario Kart 8 Deluxe>UnboundLocalError("local variable 'current_link' referenced before assignment")525
+2020-07-13 20:09:53,690 : Successful update for <Link: NBA 2K20-PC-Green Man Gaming>
+2020-07-13 20:09:55,108 : Successful update for <Link: Borderlands 3-PC-Green Man Gaming>
+2020-07-13 20:09:56,624 : gmg exception for <Game: The Legend of Zelda: Link's Awakening>UnboundLocalError("local variable 'current_link' referenced before assignment")529
+2020-07-13 20:09:58,175 : gmg exception for <Game: Madden NFL 20>UnboundLocalError("local variable 'current_link' referenced before assignment")530
+2020-07-13 20:10:00,430 : gmg exception for <Game: Tom Clancy's Ghost Recon Breakpoint>UnboundLocalError("local variable 'current_link' referenced before assignment")531
+2020-07-13 20:10:01,816 : gmg exception for <Game: NHL 20>UnboundLocalError("local variable 'current_link' referenced before assignment")534
+2020-07-13 20:10:03,567 : gmg exception for <Game: Minecraft>Exception('Game Not Found')536
+2020-07-13 20:10:05,861 : gmg exception for <Game: Super Smash Bros. Ultimate>UnboundLocalError("local variable 'current_link' referenced before assignment")537
+2020-07-13 20:10:08,214 : Successful update for <Link: Red Dead Redemption 2-PC-Green Man Gaming>
+2020-07-13 20:10:10,282 : Successful update for <Link: Tom Clancy's Rainbow Six Siege-PC-Green Man Gaming>
+2020-07-13 20:10:11,824 : gmg exception for <Game: Plants vs. Zombies: Battle for Neighborville>UnboundLocalError("local variable 'current_link' referenced before assignment")541
+2020-07-13 20:10:13,276 : gmg exception for <Game: Marvel's Spider-Man>UnboundLocalError("local variable 'current_link' referenced before assignment")542
+2020-07-13 20:10:15,099 : gmg exception for <Game: Catherine>Exception('Game Not Found')543
+2020-07-13 20:10:16,787 : gmg exception for <Game: The Legend of Zelda: Breath of the Wild>UnboundLocalError("local variable 'current_link' referenced before assignment")544
+2020-07-13 20:10:18,373 : gmg exception for <Game: DRAGON QUEST XI: Echoes of an Elusive Age>UnboundLocalError("local variable 'current_link' referenced before assignment")546
+2020-07-13 20:10:20,662 : Successful update for <Link: Fallout 4-PC-Green Man Gaming>
+2020-07-13 20:10:21,704 : gmg exception for <Game: Anthem>UnboundLocalError("local variable 'current_link' referenced before assignment")549
+2020-07-13 20:10:22,703 : gmg exception for <Game: Overwatch>Exception('Game Not Found')550
+2020-07-13 20:10:24,156 : gmg exception for <Game: Destiny 2>UnboundLocalError("local variable 'current_link' referenced before assignment")552
+2020-07-13 20:10:26,358 : gmg exception for <Game: Apex Legends>UnboundLocalError("local variable 'current_link' referenced before assignment")553
+2020-07-13 20:10:27,434 : gmg exception for <Game: Warframe>Exception('Game Not Found')554
+2020-07-13 20:10:28,870 : gmg exception for <Game: Diablo 3>UnboundLocalError("local variable 'current_link' referenced before assignment")556
+2020-07-13 20:10:31,071 : gmg exception for <Game: Rocket League>UnboundLocalError("local variable 'current_link' referenced before assignment")557
+2020-07-13 20:10:32,630 : gmg exception for <Game: Tom Clancy’s The Division 2>UnboundLocalError("local variable 'current_link' referenced before assignment")559
+2020-07-13 20:10:34,102 : gmg exception for <Game: Fire Emblem: Three Houses>UnboundLocalError("local variable 'current_link' referenced before assignment")560
+2020-07-13 20:10:35,469 : gmg exception for <Game: Kingdom Hearts III>UnboundLocalError("local variable 'current_link' referenced before assignment")561
+2020-07-13 20:10:37,184 : gmg exception for <Game: Cadence of Hyrule - Crypt of the NecroDancer Featuring the Legend of Zelda>UnboundLocalError("local variable 'current_link' referenced before assignment")562
+2020-07-13 20:10:38,830 : gmg exception for <Game: Metro Exodus>UnboundLocalError("local variable 'current_link' referenced before assignment")563
+2020-07-13 20:10:40,309 : gmg exception for <Game: Sekiro: Shadows Die Twice>UnboundLocalError("local variable 'current_link' referenced before assignment")564
+2020-07-13 20:10:41,790 : gmg exception for <Game: Days Gone>UnboundLocalError("local variable 'current_link' referenced before assignment")565
+2020-07-13 20:10:43,776 : gmg exception for <Game: Pokémon Sword and Shield>UnboundLocalError("local variable 'current_link' referenced before assignment")566
+2020-07-13 20:10:45,193 : gmg exception for <Game: Outer Wilds>UnboundLocalError("local variable 'current_link' referenced before assignment")567
+2020-07-13 20:10:46,640 : gmg exception for <Game: Star Wars Jedi: Fallen Order>UnboundLocalError("local variable 'current_link' referenced before assignment")570
+2020-07-13 20:10:48,075 : Successful update for <Link: The Outer Worlds-PC-Green Man Gaming>
+2020-07-13 20:10:49,789 : Successful update for <Link: Assassin's Creed Odyssey-PC-Green Man Gaming>
+2020-07-13 20:10:51,271 : gmg exception for <Game: Monster Hunter: World>UnboundLocalError("local variable 'current_link' referenced before assignment")575
+2020-07-13 20:10:52,750 : gmg exception for <Game: Into the Breach>UnboundLocalError("local variable 'current_link' referenced before assignment")576
+2020-07-13 20:10:53,779 : gmg exception for <Game: Celeste>Exception('Game Not Found')577
+2020-07-13 20:10:55,295 : Successful update for <Link: Dragon Ball Z: Kakarot-PC-Green Man Gaming>
+2020-07-13 20:10:56,741 : gmg exception for <Game: Final Fantasy VII Remake>UnboundLocalError("local variable 'current_link' referenced before assignment")581
+2020-07-13 20:10:58,399 : gmg exception for <Game: Warcraft III: Reforged>UnboundLocalError("local variable 'current_link' referenced before assignment")582
+2020-07-13 20:11:00,458 : Successful update for <Link: Darksiders Genesis-PC-Green Man Gaming>
+2020-07-13 20:11:02,915 : gmg exception for <Game: Ori and the Will of the Wisps>UnboundLocalError("local variable 'current_link' referenced before assignment")586
+2020-07-13 20:11:04,573 : gmg exception for <Game: Totally Reliable Delivery Service>UnboundLocalError("local variable 'current_link' referenced before assignment")587
+2020-07-13 20:11:06,860 : gmg exception for <Game: STAR WARS Battlefront 2 (2005)>UnboundLocalError("local variable 'current_link' referenced before assignment")589
+2020-07-13 20:11:08,906 : gmg exception for <Game: Assassin's Creed Origins>UnboundLocalError("local variable 'current_link' referenced before assignment")590
+2020-07-13 20:11:10,590 : gmg exception for <Game: Pokémon Ultra Sun, Ultra Moon>UnboundLocalError("local variable 'current_link' referenced before assignment")592
+2020-07-13 20:11:12,791 : gmg exception for <Game: Call of Duty: Infinite Warfare>UnboundLocalError("local variable 'current_link' referenced before assignment")594
+2020-07-13 20:11:15,014 : gmg exception for <Game: Tom Clancy’s The Division>UnboundLocalError("local variable 'current_link' referenced before assignment")596
+2020-07-13 20:11:16,417 : gmg exception for <Game: FINAL FANTASY XV>UnboundLocalError("local variable 'current_link' referenced before assignment")598
+2020-07-13 20:11:17,796 : gmg exception for <Game: Titanfall 2>UnboundLocalError("local variable 'current_link' referenced before assignment")599
+2020-07-13 20:11:19,397 : Successful update for <Link: Warhammer 40,000: Regicide-PC-Green Man Gaming>
+2020-07-13 20:11:20,818 : gmg exception for <Game: MotoGP 20>UnboundLocalError("local variable 'current_link' referenced before assignment")601
+2020-07-13 20:11:22,297 : gmg exception for <Game: Mount & Blade II: Bannerlord>UnboundLocalError("local variable 'current_link' referenced before assignment")604
+2020-07-13 20:11:23,685 : Successful update for <Link: XCOM: Chimera Squad-PC-Green Man Gaming>
+2020-07-13 20:11:25,896 : Successful update for <Link: The Jackbox Party Quintpack-PC-Green Man Gaming>
+2020-07-13 20:11:27,509 : Successful update for <Link: The Jackbox Party Pack 2-PC-Green Man Gaming>
+2020-07-13 20:11:29,103 : Successful update for <Link: The Jackbox Party Pack 3-PC-Green Man Gaming>
+2020-07-13 20:11:30,736 : Successful update for <Link: The Jackbox Party Pack 4-PC-Green Man Gaming>
+2020-07-13 20:11:33,036 : Successful update for <Link: The Jackbox Party Pack 5-PC-Green Man Gaming>
+2020-07-13 20:11:34,546 : gmg exception for <Game: Tabletop Simulator>UnboundLocalError("local variable 'current_link' referenced before assignment")613
+2020-07-13 20:11:36,842 : gmg exception for <Game: The Elder Scrolls Online: Tamriel Unlimited>UnboundLocalError("local variable 'current_link' referenced before assignment")615
+2020-07-13 20:11:38,284 : gmg exception for <Game: Total War: THREE KINGDOMS>UnboundLocalError("local variable 'current_link' referenced before assignment")616
+2020-07-13 20:11:39,951 : Successful update for <Link: Dead by Daylight-PC-Green Man Gaming>
+2020-07-13 20:11:41,406 : gmg exception for <Game: FINAL FANTASY XIV: Shadowbringers>UnboundLocalError("local variable 'current_link' referenced before assignment")618
+2020-07-13 20:11:42,970 : gmg exception for <Game: Halo: The Master Chief Collection>UnboundLocalError("local variable 'current_link' referenced before assignment")620
+2020-07-13 20:11:44,455 : Successful update for <Link: Cities: Skylines-PC-Green Man Gaming>
+2020-07-13 20:11:45,922 : Successful update for <Link: No Man's Sky-PC-Green Man Gaming>
+2020-07-13 20:11:47,574 : gmg exception for <Game: Shadow of the Tomb Raider>UnboundLocalError("local variable 'current_link' referenced before assignment")624
+2020-07-13 20:11:49,395 : gmg exception for <Game: The Witcher 3: Wild Hunt>UnboundLocalError("local variable 'current_link' referenced before assignment")619
+2020-07-13 20:11:50,771 : gmg exception for <Game: FIFA 20>UnboundLocalError("local variable 'current_link' referenced before assignment")528
+2020-07-13 20:11:52,149 : gmg exception for <Game: Animal Crossing: New Horizons>UnboundLocalError("local variable 'current_link' referenced before assignment")519
+2020-07-13 20:11:53,534 : Successful update for <Link: Resident Evil 3-PC-Green Man Gaming>
+2020-07-13 20:11:54,984 : gmg exception for <Game: Persona 5 Royal>UnboundLocalError("local variable 'current_link' referenced before assignment")523
+2020-07-13 20:11:56,592 : Successful update for <Link: Grand Theft Auto V-PC-Green Man Gaming>
+2020-07-13 20:11:58,060 : gmg exception for <Game: Gears 5>UnboundLocalError("local variable 'current_link' referenced before assignment")532
+2020-07-13 20:11:59,534 : Successful update for <Link: CODE VEIN-PC-Green Man Gaming>
+2020-07-13 20:12:01,730 : gmg exception for <Game: Spyro Reignited Trilogy>UnboundLocalError("local variable 'current_link' referenced before assignment")538
+2020-07-13 20:12:03,981 : gmg exception for <Game: God of War (2005)>UnboundLocalError("local variable 'current_link' referenced before assignment")545
+2020-07-13 20:12:06,340 : gmg exception for <Game: The Sims 4>UnboundLocalError("local variable 'current_link' referenced before assignment")547
+2020-07-13 20:12:08,405 : gmg exception for <Game: PlayerUnknown’s Battlegrounds>UnboundLocalError("local variable 'current_link' referenced before assignment")551
+2020-07-13 20:12:10,623 : gmg exception for <Game: Call of Duty: Black Ops 4>UnboundLocalError("local variable 'current_link' referenced before assignment")555
+2020-07-13 20:12:11,975 : gmg exception for <Game: Battlefield V>UnboundLocalError("local variable 'current_link' referenced before assignment")558
+2020-07-13 20:12:13,474 : gmg exception for <Game: Luigi's Mansion>UnboundLocalError("local variable 'current_link' referenced before assignment")568
+2020-07-13 20:12:15,819 : gmg exception for <Game: Disco Elysium>UnboundLocalError("local variable 'current_link' referenced before assignment")569
+2020-07-13 20:12:17,149 : gmg exception for <Game: Resident Evil 2>UnboundLocalError("local variable 'current_link' referenced before assignment")571
+2020-07-13 20:12:18,859 : gmg exception for <Game: Mission Control: NanoMech>UnboundLocalError("local variable 'current_link' referenced before assignment")573
+2020-07-13 20:12:20,388 : Successful update for <Link: Far Cry 5-PC-Green Man Gaming>
+2020-07-13 20:12:22,587 : Successful update for <Link: DRAGON BALL FighterZ-PC-Green Man Gaming>
+2020-07-13 20:12:24,814 : gmg exception for <Game: Pillars of Eternity II: Deadfire>UnboundLocalError("local variable 'current_link' referenced before assignment")583
+2020-07-13 20:12:26,258 : gmg exception for <Game: Two Point Hospital>UnboundLocalError("local variable 'current_link' referenced before assignment")585
+2020-07-13 20:12:27,832 : gmg exception for <Game: Call of Duty: WWII>UnboundLocalError("local variable 'current_link' referenced before assignment")588
+2020-07-13 20:12:29,308 : gmg exception for <Game: Xenoblade Chronicles 2>UnboundLocalError("local variable 'current_link' referenced before assignment")591
+2020-07-13 20:12:31,006 : Successful update for <Link: Tom Clancy's Ghost Recon Wildlands-PC-Green Man Gaming>
+2020-07-13 20:12:32,509 : gmg exception for <Game: Battlefield 1>UnboundLocalError("local variable 'current_link' referenced before assignment")595
+2020-07-13 20:12:34,064 : gmg exception for <Game: Call of Duty: Black Ops III>UnboundLocalError("local variable 'current_link' referenced before assignment")597
+2020-07-13 20:12:35,519 : gmg exception for <Game: Total War: WARHAMMER II>UnboundLocalError("local variable 'current_link' referenced before assignment")602
+2020-07-13 20:12:37,202 : gmg exception for <Game: Half-Life: Alyx>UnboundLocalError("local variable 'current_link' referenced before assignment")603
+2020-07-13 20:12:38,857 : Successful update for <Link: The Jackbox Party Pack-PC-Green Man Gaming>
+2020-07-13 20:12:41,394 : Successful update for <Link: The Jackbox Party Pack 6-PC-Green Man Gaming>
+2020-07-13 20:12:43,171 : Successful update for <Link: Fallout 76-PC-Green Man Gaming>
+2020-07-13 20:12:44,811 : gmg exception for <Game: Planet Zoo>UnboundLocalError("local variable 'current_link' referenced before assignment")621
+2020-07-13 20:12:46,388 : gmg exception for <Game: Mario Kart 8>UnboundLocalError("local variable 'current_link' referenced before assignment")535
+2020-07-13 20:12:47,985 : gmg exception for <Game: Call of Duty: Modern Warfare (2019)>UnboundLocalError("local variable 'current_link' referenced before assignment")518
+2020-07-13 20:12:47,989 : Start Time datetime.timedelta(days=18456, seconds=43786, microseconds=859354)
+2020-07-13 20:12:47,995 : End Time datetime.timedelta(days=18456, seconds=43967, microseconds=989492)
+2020-07-13 20:12:47,997 : Time taken: datetime.timedelta(seconds=181, microseconds=130138)

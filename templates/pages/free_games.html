@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block content %}
+<div class="container py-2">
+    <h3 class="section_header">Free Games</h3>
+    {% for free_game in free_games %}
+    <a class='card coupon-listing' href='{{free_game.link}}'>
+        <div class='px-4 py-2 row coupon-row' style='position:relative;'>
+            <span class='col-3 coupon-img'>
+                <img src='{{free_game.photo_main}}'/>
+            </span>
+            <span class='col-6'>
+                <div>{{free_game.title}}</div>
+                <small class='text-mute'>{{free_game.description|safe}}</small>
+            </span>
+        </div>
+    </a>
+    {% endfor %}
+    <div>Last updated {{ free_games.0.publish_date }}</div>
+</div>
+{% endblock %}

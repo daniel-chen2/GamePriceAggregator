@@ -1,0 +1,56 @@
+{% load static %}
+<div class="notification bg-red">
+  <p class="my-0">{{ alert.description }}</p>
+</div>
+
+<nav class="navbar navbar-expand-lg bg-white">
+  <div class="container">
+    <a class="navbar-brand" href="/">
+      <img class='logo' src="{% static 'assets/img/Bargain_Gamer_Logo.png' %}">
+    </a>
+    <div class="col d-none d-md-flex">
+      <form class="form-inline w-100 my-1" method="get" action="{% url 'search' %}">
+        <input class="form-control w-100" type="search" name='search' placeholder="Search For Games Here" value='{% if current_query %}{{ current_query }}{% endif %}' aria-label="Search">
+        <div class='nav-platform-select'>
+          <span><select name='platform' class="custom-select d-inline-block mx-0">
+              <option {% if not queried_platform %} selected {% endif %} disabled>All Consoles</option>
+              {% for p in total_platforms %}
+              <option {% if queried_platform.id == p.id %} selected {% endif %} value="{{p.id}}">{{ p.title }}</option>
+              {% endfor %}
+            </select>
+          </span>
+          <span>
+            <button class="btn btn-danger d-inline-block mx-0" type="submit">Search</button>
+          </span>
+        </div>
+      </form>
+    </div>
+  </div>
+</nav>
+
+<div class="d-block d-md-none">
+  <form class="form pos-relative w-100 my-2" method="get" action="{% url 'search' %}">
+    <input class="form-control w-100" type="search" name='search' placeholder="Search" aria-label="Search">
+    <div class='nav-platform-select'>
+    </div>
+  </form>
+</div>
+
+{% comment %} Underneath {% endcomment %}
+<div class="bg-black index_links">
+  <div class="container">
+    <div class="mx-auto text-light text-center ">
+      {% comment %} Deals Dropdown {% endcomment %}
+      <span class="dropdown">
+        <button class="btn btn-link dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          DEALS
+        </button>
+        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+          <a href='{% url "coupons" %}' class="index_link">Coupons</a>
+        </div>
+      </span>
+      <a href='{% url "search" %}' class="index_link">LATEST RELEASES</a>
+      <a href='{% url "free_games" %}' class="index_link">FREE GAMES</a>
+    </div>
+  </div>
+</div>

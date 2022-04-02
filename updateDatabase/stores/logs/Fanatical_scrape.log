@@ -1,0 +1,110 @@
+2020-07-13 20:12:50,326 : Fanatical exception for <Game: MLB 15 THE SHOW>UnboundLocalError("local variable 'current_link' referenced before assignment")520
+2020-07-13 20:12:52,494 : Successful update for <Link: DOOM Eternal-PC-Fanatical>
+2020-07-13 20:12:54,746 : Fanatical exception for <Game: Mario Kart 8 Deluxe>UnboundLocalError("local variable 'current_link' referenced before assignment")525
+2020-07-13 20:12:56,278 : Successful update for <Link: NBA 2K20-PC-Fanatical>
+2020-07-13 20:12:58,549 : Successful update for <Link: Borderlands 3-PC-Fanatical>
+2020-07-13 20:13:01,410 : Fanatical exception for <Game: The Legend of Zelda: Link's Awakening>UnboundLocalError("local variable 'current_link' referenced before assignment")529
+2020-07-13 20:13:03,914 : Fanatical exception for <Game: Madden NFL 20>UnboundLocalError("local variable 'current_link' referenced before assignment")530
+2020-07-13 20:13:06,236 : Fanatical exception for <Game: Tom Clancy's Ghost Recon Breakpoint>UnboundLocalError("local variable 'current_link' referenced before assignment")531
+2020-07-13 20:13:07,969 : Fanatical exception for <Game: NHL 20>UnboundLocalError("local variable 'current_link' referenced before assignment")534
+2020-07-13 20:13:09,894 : Fanatical exception for <Game: Minecraft>UnboundLocalError("local variable 'current_link' referenced before assignment")536
+2020-07-13 20:13:11,590 : Fanatical exception for <Game: Super Smash Bros. Ultimate>UnboundLocalError("local variable 'current_link' referenced before assignment")537
+2020-07-13 20:13:13,436 : Successful update for <Link: Red Dead Redemption 2-PC-Fanatical>
+2020-07-13 20:13:16,036 : Fanatical exception for <Game: Tom Clancy's Rainbow Six Siege>UnboundLocalError("local variable 'current_link' referenced before assignment")540
+2020-07-13 20:13:18,580 : Fanatical exception for <Game: Plants vs. Zombies: Battle for Neighborville>UnboundLocalError("local variable 'current_link' referenced before assignment")541
+2020-07-13 20:13:21,123 : Fanatical exception for <Game: Marvel's Spider-Man>UnboundLocalError("local variable 'current_link' referenced before assignment")542
+2020-07-13 20:13:22,535 : Fanatical exception for <Game: Catherine>UnboundLocalError("local variable 'current_link' referenced before assignment")543
+2020-07-13 20:13:25,232 : Fanatical exception for <Game: The Legend of Zelda: Breath of the Wild>UnboundLocalError("local variable 'current_link' referenced before assignment")544
+2020-07-13 20:13:27,039 : Fanatical exception for <Game: DRAGON QUEST XI: Echoes of an Elusive Age>UnboundLocalError("local variable 'current_link' referenced before assignment")546
+2020-07-13 20:13:29,431 : Successful update for <Link: Fallout 4-PC-Fanatical>
+2020-07-13 20:13:30,490 : Fanatical exception for <Game: Anthem>UnboundLocalError("local variable 'current_link' referenced before assignment")549
+2020-07-13 20:13:31,906 : Fanatical exception for <Game: Overwatch>UnboundLocalError("local variable 'current_link' referenced before assignment")550
+2020-07-13 20:13:34,979 : Fanatical exception for <Game: Destiny 2>UnboundLocalError("local variable 'current_link' referenced before assignment")552
+2020-07-13 20:13:37,093 : Fanatical exception for <Game: Apex Legends>UnboundLocalError("local variable 'current_link' referenced before assignment")553
+2020-07-13 20:13:38,293 : Fanatical exception for <Game: Warframe>Exception('Game Not Found')554
+2020-07-13 20:13:40,997 : Fanatical exception for <Game: Diablo 3>UnboundLocalError("local variable 'current_link' referenced before assignment")556
+2020-07-13 20:13:43,062 : Fanatical exception for <Game: Rocket League>UnboundLocalError("local variable 'current_link' referenced before assignment")557
+2020-07-13 20:13:45,717 : Fanatical exception for <Game: Tom Clancy’s The Division 2>UnboundLocalError("local variable 'current_link' referenced before assignment")559
+2020-07-13 20:13:47,688 : Fanatical exception for <Game: Fire Emblem: Three Houses>UnboundLocalError("local variable 'current_link' referenced before assignment")560
+2020-07-13 20:13:50,395 : Fanatical exception for <Game: Kingdom Hearts III>UnboundLocalError("local variable 'current_link' referenced before assignment")561
+2020-07-13 20:13:52,572 : Fanatical exception for <Game: Cadence of Hyrule - Crypt of the NecroDancer Featuring the Legend of Zelda>UnboundLocalError("local variable 'current_link' referenced before assignment")562
+2020-07-13 20:13:54,280 : Fanatical exception for <Game: Metro Exodus>UnboundLocalError("local variable 'current_link' referenced before assignment")563
+2020-07-13 20:13:56,407 : Fanatical exception for <Game: Sekiro: Shadows Die Twice>UnboundLocalError("local variable 'current_link' referenced before assignment")564
+2020-07-13 20:13:58,146 : Fanatical exception for <Game: Days Gone>UnboundLocalError("local variable 'current_link' referenced before assignment")565
+2020-07-13 20:13:59,930 : Fanatical exception for <Game: Pokémon Sword and Shield>UnboundLocalError("local variable 'current_link' referenced before assignment")566
+2020-07-13 20:14:02,356 : Fanatical exception for <Game: Outer Wilds>UnboundLocalError("local variable 'current_link' referenced before assignment")567
+2020-07-13 20:14:05,084 : Fanatical exception for <Game: Star Wars Jedi: Fallen Order>UnboundLocalError("local variable 'current_link' referenced before assignment")570
+2020-07-13 20:14:06,931 : Successful update for <Link: The Outer Worlds-PC-Fanatical>
+2020-07-13 20:14:08,680 : Successful update for <Link: Assassin's Creed Odyssey-PC-Fanatical>
+2020-07-13 20:14:11,440 : Successful update for <Link: Monster Hunter: World-PC-Fanatical>
+2020-07-13 20:14:13,993 : Fanatical exception for <Game: Into the Breach>UnboundLocalError("local variable 'current_link' referenced before assignment")576
+2020-07-13 20:14:16,100 : Fanatical exception for <Game: Celeste>UnboundLocalError("local variable 'current_link' referenced before assignment")577
+2020-07-13 20:14:17,901 : Successful update for <Link: Dragon Ball Z: Kakarot-PC-Fanatical>
+2020-07-13 20:14:20,455 : Fanatical exception for <Game: Final Fantasy VII Remake>UnboundLocalError("local variable 'current_link' referenced before assignment")581
+2020-07-13 20:14:22,180 : Fanatical exception for <Game: Warcraft III: Reforged>UnboundLocalError("local variable 'current_link' referenced before assignment")582
+2020-07-13 20:14:24,116 : Successful update for <Link: Darksiders Genesis-PC-Fanatical>
+2020-07-13 20:14:26,134 : Fanatical exception for <Game: Ori and the Will of the Wisps>UnboundLocalError("local variable 'current_link' referenced before assignment")586
+2020-07-13 20:14:28,659 : Fanatical exception for <Game: Totally Reliable Delivery Service>UnboundLocalError("local variable 'current_link' referenced before assignment")587
+2020-07-13 20:14:30,267 : Fanatical exception for <Game: STAR WARS Battlefront 2 (2005)>UnboundLocalError("local variable 'current_link' referenced before assignment")589
+2020-07-13 20:14:32,869 : Successful update for <Link: Assassin's Creed Origins-PC-Fanatical>
+2020-07-13 20:14:34,615 : Fanatical exception for <Game: Pokémon Ultra Sun, Ultra Moon>UnboundLocalError("local variable 'current_link' referenced before assignment")592
+2020-07-13 20:14:36,729 : Fanatical exception for <Game: Call of Duty: Infinite Warfare>UnboundLocalError("local variable 'current_link' referenced before assignment")594
+2020-07-13 20:14:38,573 : Successful update for <Link: Tom Clancy’s The Division-PC-Fanatical>
+2020-07-13 20:14:40,213 : Fanatical exception for <Game: FINAL FANTASY XV>UnboundLocalError("local variable 'current_link' referenced before assignment")598
+2020-07-13 20:14:42,104 : Fanatical exception for <Game: Titanfall 2>UnboundLocalError("local variable 'current_link' referenced before assignment")599
+2020-07-13 20:14:44,069 : Successful update for <Link: Warhammer 40,000: Regicide-PC-Fanatical>
+2020-07-13 20:14:45,855 : Fanatical exception for <Game: MotoGP 20>UnboundLocalError("local variable 'current_link' referenced before assignment")601
+2020-07-13 20:14:47,584 : Fanatical exception for <Game: Mount & Blade II: Bannerlord>UnboundLocalError("local variable 'current_link' referenced before assignment")604
+2020-07-13 20:14:49,312 : Successful update for <Link: XCOM: Chimera Squad-PC-Fanatical>
+2020-07-13 20:14:51,163 : Fanatical exception for <Game: The Jackbox Party Quintpack>UnboundLocalError("local variable 'current_link' referenced before assignment")606
+2020-07-13 20:14:53,028 : Successful update for <Link: The Jackbox Party Pack 2-PC-Fanatical>
+2020-07-13 20:14:54,695 : Successful update for <Link: The Jackbox Party Pack 3-PC-Fanatical>
+2020-07-13 20:14:56,500 : Successful update for <Link: The Jackbox Party Pack 4-PC-Fanatical>
+2020-07-13 20:14:58,544 : Successful update for <Link: The Jackbox Party Pack 5-PC-Fanatical>
+2020-07-13 20:15:01,394 : Fanatical exception for <Game: Tabletop Simulator>UnboundLocalError("local variable 'current_link' referenced before assignment")613
+2020-07-13 20:15:03,507 : Fanatical exception for <Game: The Elder Scrolls Online: Tamriel Unlimited>UnboundLocalError("local variable 'current_link' referenced before assignment")615
+2020-07-13 20:15:06,716 : Successful update for <Link: Total War: THREE KINGDOMS-PC-Fanatical>
+2020-07-13 20:15:09,509 : Successful update for <Link: Dead by Daylight-PC-Fanatical>
+2020-07-13 20:15:11,098 : Fanatical exception for <Game: FINAL FANTASY XIV: Shadowbringers>UnboundLocalError("local variable 'current_link' referenced before assignment")618
+2020-07-13 20:15:13,689 : Fanatical exception for <Game: Halo: The Master Chief Collection>UnboundLocalError("local variable 'current_link' referenced before assignment")620
+2020-07-13 20:15:16,430 : Successful update for <Link: Cities: Skylines-PC-Fanatical>
+2020-07-13 20:15:19,120 : Successful update for <Link: No Man's Sky-PC-Fanatical>
+2020-07-13 20:15:21,232 : Fanatical exception for <Game: Shadow of the Tomb Raider>UnboundLocalError("local variable 'current_link' referenced before assignment")624
+2020-07-13 20:15:23,761 : Fanatical exception for <Game: The Witcher 3: Wild Hunt>UnboundLocalError("local variable 'current_link' referenced before assignment")619
+2020-07-13 20:15:25,325 : Fanatical exception for <Game: FIFA 20>UnboundLocalError("local variable 'current_link' referenced before assignment")528
+2020-07-13 20:15:27,232 : Fanatical exception for <Game: Animal Crossing: New Horizons>UnboundLocalError("local variable 'current_link' referenced before assignment")519
+2020-07-13 20:15:29,226 : Successful update for <Link: Resident Evil 3-PC-Fanatical>
+2020-07-13 20:15:31,182 : Fanatical exception for <Game: Persona 5 Royal>UnboundLocalError("local variable 'current_link' referenced before assignment")523
+2020-07-13 20:15:32,965 : Successful update for <Link: Grand Theft Auto V-PC-Fanatical>
+2020-07-13 20:15:35,096 : Fanatical exception for <Game: Gears 5>UnboundLocalError("local variable 'current_link' referenced before assignment")532
+2020-07-13 20:15:37,214 : Successful update for <Link: CODE VEIN-PC-Fanatical>
+2020-07-13 20:15:39,064 : Fanatical exception for <Game: Spyro Reignited Trilogy>UnboundLocalError("local variable 'current_link' referenced before assignment")538
+2020-07-13 20:15:41,180 : Fanatical exception for <Game: God of War (2005)>UnboundLocalError("local variable 'current_link' referenced before assignment")545
+2020-07-13 20:15:43,064 : Fanatical exception for <Game: The Sims 4>UnboundLocalError("local variable 'current_link' referenced before assignment")547
+2020-07-13 20:15:45,655 : Fanatical exception for <Game: PlayerUnknown’s Battlegrounds>UnboundLocalError("local variable 'current_link' referenced before assignment")551
+2020-07-13 20:15:47,814 : Fanatical exception for <Game: Call of Duty: Black Ops 4>UnboundLocalError("local variable 'current_link' referenced before assignment")555
+2020-07-13 20:15:51,052 : Fanatical exception for <Game: Battlefield V>UnboundLocalError("local variable 'current_link' referenced before assignment")558
+2020-07-13 20:15:52,847 : Fanatical exception for <Game: Luigi's Mansion>UnboundLocalError("local variable 'current_link' referenced before assignment")568
+2020-07-13 20:15:54,614 : Fanatical exception for <Game: Disco Elysium>UnboundLocalError("local variable 'current_link' referenced before assignment")569
+2020-07-13 20:15:56,497 : Fanatical exception for <Game: Resident Evil 2>UnboundLocalError("local variable 'current_link' referenced before assignment")571
+2020-07-13 20:15:58,208 : Fanatical exception for <Game: Mission Control: NanoMech>UnboundLocalError("local variable 'current_link' referenced before assignment")573
+2020-07-13 20:16:00,738 : Successful update for <Link: Far Cry 5-PC-Fanatical>
+2020-07-13 20:16:03,101 : Fanatical exception for <Game: DRAGON BALL FighterZ>UnboundLocalError("local variable 'current_link' referenced before assignment")579
+2020-07-13 20:16:06,010 : Successful update for <Link: Pillars of Eternity II: Deadfire-PC-Fanatical>
+2020-07-13 20:16:08,326 : Successful update for <Link: Two Point Hospital-PC-Fanatical>
+2020-07-13 20:16:10,924 : Fanatical exception for <Game: Call of Duty: WWII>UnboundLocalError("local variable 'current_link' referenced before assignment")588
+2020-07-13 20:16:12,637 : Fanatical exception for <Game: Xenoblade Chronicles 2>UnboundLocalError("local variable 'current_link' referenced before assignment")591
+2020-07-13 20:16:14,393 : Successful update for <Link: Tom Clancy's Ghost Recon Wildlands-PC-Fanatical>
+2020-07-13 20:16:16,090 : Fanatical exception for <Game: Battlefield 1>UnboundLocalError("local variable 'current_link' referenced before assignment")595
+2020-07-13 20:16:17,998 : Fanatical exception for <Game: Call of Duty: Black Ops III>UnboundLocalError("local variable 'current_link' referenced before assignment")597
+2020-07-13 20:16:19,978 : Successful update for <Link: Total War: WARHAMMER II-PC-Fanatical>
+2020-07-13 20:16:22,455 : Fanatical exception for <Game: Half-Life: Alyx>UnboundLocalError("local variable 'current_link' referenced before assignment")603
+2020-07-13 20:16:24,304 : Successful update for <Link: The Jackbox Party Pack-PC-Fanatical>
+2020-07-13 20:16:26,441 : Successful update for <Link: The Jackbox Party Pack 6-PC-Fanatical>
+2020-07-13 20:16:28,314 : Successful update for <Link: Fallout 76-PC-Fanatical>
+2020-07-13 20:16:30,840 : Successful update for <Link: Planet Zoo-PC-Fanatical>
+2020-07-13 20:16:32,712 : Fanatical exception for <Game: Mario Kart 8>UnboundLocalError("local variable 'current_link' referenced before assignment")535
+2020-07-13 20:16:35,780 : Successful update for <Link: Call of Duty: Modern Warfare (2019)-PC-Fanatical>
+2020-07-13 20:16:35,809 : Start Time datetime.timedelta(days=18456, seconds=43968, microseconds=7256)
+2020-07-13 20:16:35,811 : End Time datetime.timedelta(days=18456, seconds=44195, microseconds=809157)
+2020-07-13 20:16:35,835 : Time taken: datetime.timedelta(seconds=227, microseconds=801901)

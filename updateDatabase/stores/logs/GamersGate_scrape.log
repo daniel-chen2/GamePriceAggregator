@@ -1,0 +1,110 @@
+2020-07-13 20:03:43,760 : GamersGate exception for <Game: MLB 15 THE SHOW>UnboundLocalError("local variable 'current_link' referenced before assignment")520
+2020-07-13 20:03:47,276 : Successful update for <Link: DOOM Eternal-PC-Gamers Gate>
+2020-07-13 20:03:49,369 : GamersGate exception for <Game: Mario Kart 8 Deluxe>UnboundLocalError("local variable 'current_link' referenced before assignment")525
+2020-07-13 20:03:52,444 : Successful update for <Link: NBA 2K20-PC-Gamers Gate>
+2020-07-13 20:03:55,664 : GamersGate exception for <Game: Borderlands 3>UnboundLocalError("local variable 'current_link' referenced before assignment")527
+2020-07-13 20:04:02,871 : GamersGate exception for <Game: The Legend of Zelda: Link's Awakening>UnboundLocalError("local variable 'current_link' referenced before assignment")529
+2020-07-13 20:04:05,876 : GamersGate exception for <Game: Madden NFL 20>UnboundLocalError("local variable 'current_link' referenced before assignment")530
+2020-07-13 20:04:08,651 : GamersGate exception for <Game: Tom Clancy's Ghost Recon Breakpoint>UnboundLocalError("local variable 'current_link' referenced before assignment")531
+2020-07-13 20:04:11,165 : GamersGate exception for <Game: NHL 20>UnboundLocalError("local variable 'current_link' referenced before assignment")534
+2020-07-13 20:04:12,152 : GamersGate exception for <Game: Minecraft>UnboundLocalError("local variable 'current_link' referenced before assignment")536
+2020-07-13 20:04:14,806 : GamersGate exception for <Game: Super Smash Bros. Ultimate>UnboundLocalError("local variable 'current_link' referenced before assignment")537
+2020-07-13 20:04:19,542 : Successful update for <Link: Red Dead Redemption 2-PC-Gamers Gate>
+2020-07-13 20:04:21,904 : GamersGate exception for <Game: Tom Clancy's Rainbow Six Siege>UnboundLocalError("local variable 'current_link' referenced before assignment")540
+2020-07-13 20:04:26,688 : GamersGate exception for <Game: Plants vs. Zombies: Battle for Neighborville>UnboundLocalError("local variable 'current_link' referenced before assignment")541
+2020-07-13 20:04:28,281 : GamersGate exception for <Game: Marvel's Spider-Man>UnboundLocalError("local variable 'current_link' referenced before assignment")542
+2020-07-13 20:04:29,392 : GamersGate exception for <Game: Catherine>UnboundLocalError("local variable 'current_link' referenced before assignment")543
+2020-07-13 20:04:38,523 : GamersGate exception for <Game: The Legend of Zelda: Breath of the Wild>UnboundLocalError("local variable 'current_link' referenced before assignment")544
+2020-07-13 20:04:43,719 : GamersGate exception for <Game: DRAGON QUEST XI: Echoes of an Elusive Age>UnboundLocalError("local variable 'current_link' referenced before assignment")546
+2020-07-13 20:04:48,079 : Successful update for <Link: Fallout 4-PC-Gamers Gate>
+2020-07-13 20:04:49,210 : GamersGate exception for <Game: Anthem>UnboundLocalError("local variable 'current_link' referenced before assignment")549
+2020-07-13 20:04:50,269 : GamersGate exception for <Game: Overwatch>UnboundLocalError("local variable 'current_link' referenced before assignment")550
+2020-07-13 20:04:52,698 : GamersGate exception for <Game: Destiny 2>UnboundLocalError("local variable 'current_link' referenced before assignment")552
+2020-07-13 20:04:54,405 : GamersGate exception for <Game: Apex Legends>UnboundLocalError("local variable 'current_link' referenced before assignment")553
+2020-07-13 20:04:56,162 : GamersGate exception for <Game: Warframe>Exception('Game Not Found')554
+2020-07-13 20:04:58,626 : GamersGate exception for <Game: Diablo 3>UnboundLocalError("local variable 'current_link' referenced before assignment")556
+2020-07-13 20:05:01,002 : GamersGate exception for <Game: Rocket League>UnboundLocalError("local variable 'current_link' referenced before assignment")557
+2020-07-13 20:05:06,548 : GamersGate exception for <Game: Tom Clancy’s The Division 2>UnboundLocalError("local variable 'current_link' referenced before assignment")559
+2020-07-13 20:05:09,430 : GamersGate exception for <Game: Fire Emblem: Three Houses>UnboundLocalError("local variable 'current_link' referenced before assignment")560
+2020-07-13 20:05:11,779 : GamersGate exception for <Game: Kingdom Hearts III>UnboundLocalError("local variable 'current_link' referenced before assignment")561
+2020-07-13 20:05:22,507 : GamersGate exception for <Game: Cadence of Hyrule - Crypt of the NecroDancer Featuring the Legend of Zelda>UnboundLocalError("local variable 'current_link' referenced before assignment")562
+2020-07-13 20:05:23,907 : GamersGate exception for <Game: Metro Exodus>UnboundLocalError("local variable 'current_link' referenced before assignment")563
+2020-07-13 20:05:26,575 : GamersGate exception for <Game: Sekiro: Shadows Die Twice>UnboundLocalError("local variable 'current_link' referenced before assignment")564
+2020-07-13 20:05:28,305 : GamersGate exception for <Game: Days Gone>UnboundLocalError("local variable 'current_link' referenced before assignment")565
+2020-07-13 20:05:33,172 : GamersGate exception for <Game: Pokémon Sword and Shield>UnboundLocalError("local variable 'current_link' referenced before assignment")566
+2020-07-13 20:05:35,242 : GamersGate exception for <Game: Outer Wilds>UnboundLocalError("local variable 'current_link' referenced before assignment")567
+2020-07-13 20:05:37,589 : GamersGate exception for <Game: Star Wars Jedi: Fallen Order>UnboundLocalError("local variable 'current_link' referenced before assignment")570
+2020-07-13 20:05:41,636 : GamersGate exception for <Game: The Outer Worlds>UnboundLocalError("local variable 'current_link' referenced before assignment")572
+2020-07-13 20:05:43,103 : GamersGate exception for <Game: Assassin's Creed Odyssey>UnboundLocalError("local variable 'current_link' referenced before assignment")574
+2020-07-13 20:05:46,315 : Successful update for <Link: Monster Hunter: World-PC-Gamers Gate>
+2020-07-13 20:05:51,578 : GamersGate exception for <Game: Into the Breach>UnboundLocalError("local variable 'current_link' referenced before assignment")576
+2020-07-13 20:05:52,541 : GamersGate exception for <Game: Celeste>UnboundLocalError("local variable 'current_link' referenced before assignment")577
+2020-07-13 20:05:54,394 : GamersGate exception for <Game: Dragon Ball Z: Kakarot>UnboundLocalError("local variable 'current_link' referenced before assignment")580
+2020-07-13 20:05:55,938 : GamersGate exception for <Game: Final Fantasy VII Remake>UnboundLocalError("local variable 'current_link' referenced before assignment")581
+2020-07-13 20:05:57,798 : GamersGate exception for <Game: Warcraft III: Reforged>UnboundLocalError("local variable 'current_link' referenced before assignment")582
+2020-07-13 20:06:01,228 : Successful update for <Link: Darksiders Genesis-PC-Gamers Gate>
+2020-07-13 20:06:11,507 : GamersGate exception for <Game: Ori and the Will of the Wisps>UnboundLocalError("local variable 'current_link' referenced before assignment")586
+2020-07-13 20:06:14,771 : GamersGate exception for <Game: Totally Reliable Delivery Service>UnboundLocalError("local variable 'current_link' referenced before assignment")587
+2020-07-13 20:06:18,229 : GamersGate exception for <Game: STAR WARS Battlefront 2 (2005)>UnboundLocalError("local variable 'current_link' referenced before assignment")589
+2020-07-13 20:06:19,973 : GamersGate exception for <Game: Assassin's Creed Origins>UnboundLocalError("local variable 'current_link' referenced before assignment")590
+2020-07-13 20:06:22,227 : GamersGate exception for <Game: Pokémon Ultra Sun, Ultra Moon>UnboundLocalError("local variable 'current_link' referenced before assignment")592
+2020-07-13 20:06:27,507 : GamersGate exception for <Game: Call of Duty: Infinite Warfare>UnboundLocalError("local variable 'current_link' referenced before assignment")594
+2020-07-13 20:06:32,671 : GamersGate exception for <Game: Tom Clancy’s The Division>UnboundLocalError("local variable 'current_link' referenced before assignment")596
+2020-07-13 20:06:34,179 : GamersGate exception for <Game: FINAL FANTASY XV>UnboundLocalError("local variable 'current_link' referenced before assignment")598
+2020-07-13 20:06:36,751 : GamersGate exception for <Game: Titanfall 2>UnboundLocalError("local variable 'current_link' referenced before assignment")599
+2020-07-13 20:06:40,770 : Successful update for <Link: Warhammer 40,000: Regicide-PC-Gamers Gate>
+2020-07-13 20:06:42,751 : GamersGate exception for <Game: MotoGP 20>UnboundLocalError("local variable 'current_link' referenced before assignment")601
+2020-07-13 20:06:44,890 : GamersGate exception for <Game: Mount & Blade II: Bannerlord>UnboundLocalError("local variable 'current_link' referenced before assignment")604
+2020-07-13 20:06:47,393 : GamersGate exception for <Game: XCOM: Chimera Squad>UnboundLocalError("local variable 'current_link' referenced before assignment")605
+2020-07-13 20:06:52,482 : GamersGate exception for <Game: The Jackbox Party Quintpack>UnboundLocalError("local variable 'current_link' referenced before assignment")606
+2020-07-13 20:06:58,525 : GamersGate exception for <Game: The Jackbox Party Pack 2>UnboundLocalError("local variable 'current_link' referenced before assignment")608
+2020-07-13 20:07:04,736 : GamersGate exception for <Game: The Jackbox Party Pack 3>UnboundLocalError("local variable 'current_link' referenced before assignment")609
+2020-07-13 20:07:11,048 : GamersGate exception for <Game: The Jackbox Party Pack 4>UnboundLocalError("local variable 'current_link' referenced before assignment")610
+2020-07-13 20:07:17,196 : GamersGate exception for <Game: The Jackbox Party Pack 5>UnboundLocalError("local variable 'current_link' referenced before assignment")611
+2020-07-13 20:07:19,404 : GamersGate exception for <Game: Tabletop Simulator>UnboundLocalError("local variable 'current_link' referenced before assignment")613
+2020-07-13 20:07:23,778 : GamersGate exception for <Game: The Elder Scrolls Online: Tamriel Unlimited>UnboundLocalError("local variable 'current_link' referenced before assignment")615
+2020-07-13 20:07:26,677 : GamersGate exception for <Game: Total War: THREE KINGDOMS>UnboundLocalError("local variable 'current_link' referenced before assignment")616
+2020-07-13 20:07:32,634 : Successful update for <Link: Dead by Daylight-PC-Gamers Gate>
+2020-07-13 20:07:34,202 : GamersGate exception for <Game: FINAL FANTASY XIV: Shadowbringers>UnboundLocalError("local variable 'current_link' referenced before assignment")618
+2020-07-13 20:07:39,206 : GamersGate exception for <Game: Halo: The Master Chief Collection>UnboundLocalError("local variable 'current_link' referenced before assignment")620
+2020-07-13 20:07:40,818 : GamersGate exception for <Game: Cities: Skylines>UnboundLocalError("local variable 'current_link' referenced before assignment")622
+2020-07-13 20:07:44,531 : Successful update for <Link: No Man's Sky-PC-Gamers Gate>
+2020-07-13 20:07:51,728 : Successful update for <Link: Shadow of the Tomb Raider-PC-Gamers Gate>
+2020-07-13 20:07:56,804 : GamersGate exception for <Game: The Witcher 3: Wild Hunt>UnboundLocalError("local variable 'current_link' referenced before assignment")619
+2020-07-13 20:07:58,660 : GamersGate exception for <Game: FIFA 20>UnboundLocalError("local variable 'current_link' referenced before assignment")528
+2020-07-13 20:08:01,992 : GamersGate exception for <Game: Animal Crossing: New Horizons>UnboundLocalError("local variable 'current_link' referenced before assignment")519
+2020-07-13 20:08:06,839 : Successful update for <Link: Resident Evil 3-PC-Gamers Gate>
+2020-07-13 20:08:09,118 : GamersGate exception for <Game: Persona 5 Royal>UnboundLocalError("local variable 'current_link' referenced before assignment")523
+2020-07-13 20:08:12,221 : Successful update for <Link: Grand Theft Auto V-PC-Gamers Gate>
+2020-07-13 20:08:15,193 : GamersGate exception for <Game: Gears 5>UnboundLocalError("local variable 'current_link' referenced before assignment")532
+2020-07-13 20:08:17,680 : GamersGate exception for <Game: CODE VEIN>UnboundLocalError("local variable 'current_link' referenced before assignment")533
+2020-07-13 20:08:20,168 : GamersGate exception for <Game: Spyro Reignited Trilogy>UnboundLocalError("local variable 'current_link' referenced before assignment")538
+2020-07-13 20:08:23,684 : GamersGate exception for <Game: God of War (2005)>UnboundLocalError("local variable 'current_link' referenced before assignment")545
+2020-07-13 20:08:29,541 : GamersGate exception for <Game: The Sims 4>UnboundLocalError("local variable 'current_link' referenced before assignment")547
+2020-07-13 20:08:31,612 : GamersGate exception for <Game: PlayerUnknown’s Battlegrounds>UnboundLocalError("local variable 'current_link' referenced before assignment")551
+2020-07-13 20:08:36,160 : GamersGate exception for <Game: Call of Duty: Black Ops 4>UnboundLocalError("local variable 'current_link' referenced before assignment")555
+2020-07-13 20:08:38,503 : GamersGate exception for <Game: Battlefield V>UnboundLocalError("local variable 'current_link' referenced before assignment")558
+2020-07-13 20:08:40,143 : GamersGate exception for <Game: Luigi's Mansion>UnboundLocalError("local variable 'current_link' referenced before assignment")568
+2020-07-13 20:08:41,429 : GamersGate exception for <Game: Disco Elysium>UnboundLocalError("local variable 'current_link' referenced before assignment")569
+2020-07-13 20:08:44,369 : GamersGate exception for <Game: Resident Evil 2>UnboundLocalError("local variable 'current_link' referenced before assignment")571
+2020-07-13 20:08:46,128 : GamersGate exception for <Game: Mission Control: NanoMech>UnboundLocalError("local variable 'current_link' referenced before assignment")573
+2020-07-13 20:08:48,311 : GamersGate exception for <Game: Far Cry 5>UnboundLocalError("local variable 'current_link' referenced before assignment")578
+2020-07-13 20:08:50,274 : GamersGate exception for <Game: DRAGON BALL FighterZ>UnboundLocalError("local variable 'current_link' referenced before assignment")579
+2020-07-13 20:08:55,712 : Successful update for <Link: Pillars of Eternity II: Deadfire-PC-Gamers Gate>
+2020-07-13 20:08:57,655 : GamersGate exception for <Game: Two Point Hospital>UnboundLocalError("local variable 'current_link' referenced before assignment")585
+2020-07-13 20:09:01,494 : GamersGate exception for <Game: Call of Duty: WWII>UnboundLocalError("local variable 'current_link' referenced before assignment")588
+2020-07-13 20:09:04,537 : GamersGate exception for <Game: Xenoblade Chronicles 2>UnboundLocalError("local variable 'current_link' referenced before assignment")591
+2020-07-13 20:09:06,850 : GamersGate exception for <Game: Tom Clancy's Ghost Recon Wildlands>UnboundLocalError("local variable 'current_link' referenced before assignment")593
+2020-07-13 20:09:10,220 : GamersGate exception for <Game: Battlefield 1>UnboundLocalError("local variable 'current_link' referenced before assignment")595
+2020-07-13 20:09:15,457 : GamersGate exception for <Game: Call of Duty: Black Ops III>UnboundLocalError("local variable 'current_link' referenced before assignment")597
+2020-07-13 20:09:17,344 : GamersGate exception for <Game: Total War: WARHAMMER II>UnboundLocalError("local variable 'current_link' referenced before assignment")602
+2020-07-13 20:09:20,319 : GamersGate exception for <Game: Half-Life: Alyx>UnboundLocalError("local variable 'current_link' referenced before assignment")603
+2020-07-13 20:09:25,930 : GamersGate exception for <Game: The Jackbox Party Pack>UnboundLocalError("local variable 'current_link' referenced before assignment")607
+2020-07-13 20:09:30,829 : GamersGate exception for <Game: The Jackbox Party Pack 6>UnboundLocalError("local variable 'current_link' referenced before assignment")612
+2020-07-13 20:09:32,552 : GamersGate exception for <Game: Fallout 76>UnboundLocalError("local variable 'current_link' referenced before assignment")614
+2020-07-13 20:09:36,581 : Successful update for <Link: Planet Zoo-PC-Gamers Gate>
+2020-07-13 20:09:38,676 : GamersGate exception for <Game: Mario Kart 8>UnboundLocalError("local variable 'current_link' referenced before assignment")535
+2020-07-13 20:09:46,835 : GamersGate exception for <Game: Call of Duty: Modern Warfare (2019)>UnboundLocalError("local variable 'current_link' referenced before assignment")518
+2020-07-13 20:09:46,841 : Start Time datetime.timedelta(days=18456, seconds=43418, microseconds=931633)
+2020-07-13 20:09:46,848 : End Time datetime.timedelta(days=18456, seconds=43786, microseconds=841426)
+2020-07-13 20:09:46,850 : Time taken: datetime.timedelta(seconds=367, microseconds=909792)

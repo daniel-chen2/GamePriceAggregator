@@ -1,0 +1,86 @@
+{% extends 'base.html' %} {% block content %}
+<div class="container" style="width:95%">
+
+    <div class="mt-2 ml-auto text-small text-muted row">
+        <!-- Filters -->
+        <div class='container'>
+            <div class="row py-2">
+                <span class="col">{{ results_found }} Results Found
+          </span>
+            </div>
+        </div>
+    </div>
+    <hr class="py-0 my-0 mb-2">
+
+    <section id="listings">
+        <div class="container">
+            <div class="row">
+                {% if games %} {% for game in games %}
+                <div class='col-md-3 col-6 px-0 my-2'>
+                    <a class="listing-card" href="
+                    {% if queried_platforms.count == 1 %} 
+                      {% url 'game' platform_id=queried_platforms.id game_id=game.id %}
+                    {% else %}
+                      {% url 'games_gateway' game_id=game.id %}  
+                    {% endif %}">
+                        <div class="gallery-img-contain-sm listing-img">
+                            <img class="gallery-image mx-auto" src="{{ game.photo_url }}">
+                        </div>
+                        <div class="pb-2 mt-2">
+                            <div class="text-center search-game-title"><strong>{{ game.title }}</strong></div>
+                            <div class="row mx-auto">
+                                {% if game.cheapest_game_links_by_platform %}
+                                  {% for cheapest_link in game.cheapest_game_links_by_platform %}
+                                  <span class='col px-0 text-center'>
+                                    <div><small><i class='mx-auto {{ cheapest_link.platform.icon }}'></i></small></div>
+                                    <span><small>${{ cheapest_link.price }}</small></span>
+                                  </span>
+                                  {% endfor %}
+                                {% else %}
+                                  {% if game.cheapest_game_links %}
+                                    {% for cheapest_link in game.cheapest_game_links %}
+                                      <span class='col px-0 text-center'>
+                                      <div><small><i class='mx-auto {{ cheapest_link.platform.icon }}'></i></small></div>
+                                      <span><small>${{ cheapest_link.price }}</small></span>
+                                      </span>
+                                    {% endfor %}
+                                  {% else %}
+                                    <span class='col my-2 px-0 text-center'>No Prices Found</span>
+                                  {% endif %}
+                                {% endif %}
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                {% endfor %} {% else %}
+                <div class="col-md-12">
+                    <p>No Games Available</p>
+                </div>
+                {% endif %}
+            </div>
+
+            {% comment %} Paginator {% endcomment %}
+            
+            {% if games.has_other_pages %}
+            <div class='row'>
+              <ul class="pagination mx-auto">
+                {% if games.has_previous %}
+                  <a href="?page={{ games.previous_page_number }}{% if platform_id %}platform={{platform_id}}{% endif %}"><li><span>&laquo;</span></li></a>
+                  <a href="?page={{ games.previous_page_number }}{% if platform_id %}platform={{platform_id}}{% endif %}"><li>{{ games.previous_page_number }}</li></a>
+                {% else %}
+                  <li class="disabled"><span>&laquo;</span></li>
+                {% endif %}
+                    <li class="active"><span>{{ games.number }}<span class="sr-only">{{ games.number }}</span></span></li>
+                {% if games.has_next %}
+                  <a href="?page={{ games.next_page_number }}{% if platform_id %}&platform={{platform_id}}{% endif %}"><li>{{ games.next_page_number }}</li></a>
+                  <a href="?page={{ games.next_page_number }}{% if platform_id %}&platform={{platform_id}}{% endif %}"><li>&raquo;</li></a>
+                {% else %}
+                  <li class="disabled"><span>&raquo;</span></li>
+                {% endif %}
+              </ul>
+            </div>
+          {% endif %}
+    </section>
+    </div>
+</div>
+{% endblock %}

@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+{% load static %}
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<link rel="stylesheet" href="{% static 'assets/css/style.css' %}">
+
+{% block content %}
+<body>
+    <div class="mt-2 mx-0 text-center">
+        <img src="{% static 'assets/img/Bargain_Gamer_Logo.png' %}">
+        <h1>404. Unfortunately, this means that the requested URL was not found in this site</h1>
+        <div>Please check again later, or report an error to support@thebargaingamer.com</div>
+    </div>
+</body>
+{% endblock %}

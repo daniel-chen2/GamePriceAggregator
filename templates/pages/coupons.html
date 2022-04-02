@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block content %}
+<div class="container py-2">
+    <h3 class="section_header">Latest Coupons</h3>
+    {% for coupon in coupons %}
+    <a class='card coupon-listing my-2' href='{{coupon.link}}'>
+        <div class='px-4 py-2 row coupon-row' style='position:relative;'>
+            <span class='col-3 coupon-img'>
+                <div>
+                    <img src='{{coupon.photo_main}}'/>
+                </div>
+            </span>
+            <span class='col-6'>
+                <div>{{coupon.title}}</div>
+                <small class='text-mute'>{{coupon.description}}</small>
+            </span>
+            {% if coupon.code %}
+            <span class='col-3'><strong>Code: {{ coupon.code }}</strong></span>
+            {% endif %}
+        </div>
+    </a>
+    {% endfor %}
+    <div>Last updated {{ coupons.0.publish_date }}</div>
+</div>
+
+{% endblock %}

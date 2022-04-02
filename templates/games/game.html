@@ -1,0 +1,155 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block content %}
+<div>
+   <div class='game-background' style='background: linear-gradient(to bottom, rgba(255,255,255,0) 0%,
+      rgba(255,255,255,1)),url("{{ game.photo_url }}")'></div>
+   <div class="container py-4 pos-relative">
+      <div class="d-flex row">
+         <div class="col-md-5 col-sm-12 game-listing-img">
+            <h2 class="d-inline">
+               {{ game.title }}
+               {% if game.metacritic %}
+                  <span class='metacritic_score'>{{game.metacritic}}</span>
+               {% endif %}
+            </h2>
+            <div class="d-block">
+               <span>
+                  <span>Platform: {{platform.title}}</span>
+               </span>
+            </div>
+            <div class='mt-2'>
+               <img class="game-img" src='{{ game.photo_url }}'>
+            </div>
+         </div>
+         <div class="col-md-7 col-sm-12">
+            <div class="py-2 info-pane">
+               <ul class="nav nav-tabs" id="myTab" role="tablist">
+                  <li class="nav-item">
+                     <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab"
+                        aria-controls="home" aria-selected="true">Details</a>
+                  </li>
+               </ul>
+               <div class="tab-content" id="myTabContent">
+                  <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+                     <div class='py-2 game-description'>
+                        <p>Released: {{ game.publish_date }}</p>
+                        <p class='read'>{{ game.description }}</p>
+                        </p><small><a href="#" class="readMore">Show More</a></small>
+                     </div>
+                  </div>
+                  <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+                     <div class='py-2'>Review feature still under construction :)</div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      {% if cheapest_link %}
+         <div class='cheapest_link mt-3'>
+            <a class='w-100' href="{{ cheapest_link.link }}">
+               <div class='col-4'>Cheapest Price</div>
+               <div class='col-8 ml-auto text-right'>
+                  <span class='d-none d-md-inline-block'>{{ game.title }} ({{ cheapest_link.platform.title }}) - </span>
+                  <span>{{ cheapest_link.store.title }}</span>
+                  <span>${{ cheapest_link.price }}</span>
+               </div>
+            </a>
+         </div>
+      {% endif %}
+      {% if physical_links %}
+      {% comment %} Section 2 recommended {% endcomment %}
+      <div class="pt-2 mt-2">
+         <div class="row">
+            <h4 class="d-inline col">PHYSICAL</h4>
+         </div>
+         <hr>
+         <div class="">
+            <table class="table-mobile sortable table display table-borderless fixed-table">
+               <thead>
+                  <tr>
+                     <th data-field="seller">Seller</th>
+                     <th data-field="platform">Platform</th>
+                     <th data-sortable="true" data-field="price">Price</th>
+                     <th scope="col">Date-Updated</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  {% for link in physical_links %}
+                  <tr data-index="1" class='clickable-row' id="{{ link.id }}" data-href='{{ link.link }}'>
+                     <td class="" height="0.25em"><span>{{ link.store.title }}</span></td>
+                     <td class="" height="0.25em"><span>{{ link.platform }}</span></td>
+                     <td class="" height="0.25em">
+                        <span>
+                           {% if not link.price == link.initial_price %}
+                              <span class='discount_box'>-{{ link.discount_percent }}%</span>
+                              <span>$ {{ link.price }} 
+                              <del class='initial_price'><small>${{ link.initial_price }}</small></del>
+                           {% else %}
+                              <span>$ {{ link.price }} </span>
+                           {% endif %}
+                        </span>
+                     </td>
+                     <td>
+                        <span>{{link.updated_at}}</span>
+                     </td>
+                  </tr>
+                  {% endfor %}
+               </tbody>
+            </table>
+         </div>
+         {% for link in physical_links %}
+         <a class="d-none" id="{{ link.id }}" target="_blank" href="{{ link.link }}">yass</a>
+         {% endfor %}
+      </div>
+      {% endif %}
+      {% comment %} Section 2 recommended {% endcomment %}
+      {% if digi_links %}
+      <div class="pt-2">
+         <h4>DIGITAL</h4>
+         <hr>
+         <div class="">
+            <table class="table-mobile sortable table display table-borderless fixed-table">
+               <thead>
+                  <tr>
+                     <th scope="col">Seller</th>
+                     <th scope="col">Platform</th>
+                     <th scope="col">Price</th>
+                     <th scope="col">Date-Updated</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  {% for link in digi_links %}
+                  <tr class='clickable-row' id="{{ link.id }}" href='{{ link.link }}'>
+                     <td class="" height="0.25em">
+                        <span>{{ link.store.title }}</span>
+                     </td>
+                     <td class="" height="0.25em"><span>{{ link.platform }}</span></td>
+                     <td class="" height="0.25em">
+                           {% if not link.price >= link.initial_price %}
+                              <span class='discount_box d-none d-md-inline-block'>-{{ link.discount_percent }}%</span>
+                              <span>$ {{ link.price }} 
+                              <del class='initial_price'><small>${{ link.initial_price }}</small></del>
+                              <span class='discount_box d-md-none'>-{{ link.discount_percent }}%</span>
+                           {% else %}
+                              <span>$ {{ link.price }} </span>
+                           {% endif %}
+                        </span>
+                     </td>
+                     <td>
+                        <span>{{link.updated_at}}</span>
+                     </td>
+                  </tr>
+                  {% endfor %}
+               </tbody>
+            </table>
+            {% comment %} Links {% endcomment %}
+            {% for link in digi_links %}
+            <a class="d-none" id="{{ link.id }}" target="_blank" href="{{ link.link }}">yass</a>
+            {% endfor %}
+         </div>
+      </div>
+      {% endif %}
+   </div>
+</div>
+{% endblock %}

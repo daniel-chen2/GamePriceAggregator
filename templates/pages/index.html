@@ -1,0 +1,96 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block content %}
+
+<div id="carouselIndicators" class="carousel slide container" data-ride="carousel">
+   <ol class="carousel-indicators d-none">
+      {% for carousel_item in carousel_items %}
+         <li data-target="#carouselIndicators" data-slide-to="{{ forloop.counter|add:"-1" }}" class="active"></li>
+      {% endfor %}
+   </ol>
+  <div class="carousel-inner">
+   {% for carousel_item in carousel_items %}
+      <div class="carousel-item {% if forloop.counter == 1 %} active {% endif %} max_height_400px">
+         <a href={{ carousel_item.link }}>
+            <img class="d-block w-100" src="{{carousel_item.photo_main}}" alt="First slide">
+            <span class="carousel_item_description">
+               <h4>{{ carousel_item.description | safe}}</h4>
+            </span>
+         </a>
+      </div>
+   {% endfor %}
+  </div>
+  <a class="carousel-control-prev" href="#carouselIndicators" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselIndicators" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
+{% comment %} Latest Sales
+<section class="container my-3">
+   <h2 class="section_header">Latest Games Sales</h2>
+   <div class="row py-2 mx-0">
+      {% for sale in sales %}
+      <a class="card sales-card col-md-4 col-6" href="{{sale.link}}">
+         <div class="gallery-img-contain">
+            <img class="gallery-image" src="{{ sale.photo_main.url }}">
+         </div>
+         <div class="container mt-2">
+            <div><strong>{{ sale.title }}</strong></div>
+            <div>
+               <p class="text-muted"><small>{{ sale.description }}</small></p>
+            </div>
+         </div>
+      </a>
+      {% endfor %}
+   </div>
+</section> {% endcomment %}
+
+{% comment %} Hot RELEASES {% endcomment %}
+<section class="container my-3">
+   <h2 class="section_header">Hot Releases</h2>
+   <div class="row py-2 mx-0">
+      {% for game in recent_games %}
+      <a class="card col-md-3 col-6 sales-card" href="games/{{ game.id }}">
+         <div class="gallery-img-contain-sm">
+            <img class="gallery-image" src="{{ game.photo_url }}">
+         </div>
+         <div class="pb-2 mt-2">
+            <div class="text-center"><strong>{{ game.title }}</strong></div>
+            <div class="row w-100 mx-auto">
+               {% if game.cheapest_game_links %}
+                  {% for cheapest_link in game.cheapest_game_links %}
+                  <span class='col px-0 text-center'>
+                  <div><small><i class='mx-auto {{ cheapest_link.platform.icon }}'></i></small></div>
+                  <span><small>${{ cheapest_link.price }}</small></span>
+                  </span>
+                  {% endfor %}
+               {% else %}
+                  <span class='col my-2 px-0 text-center'>No Prices Found</span>
+               {% endif %}
+            </div>
+         </div>
+      </a>
+      {% endfor %}
+   </div>
+</section>
+{% comment %} Search By Console {% endcomment %}
+<section class="container my-3">
+   <h2 class="section_header">Search By Platform</h2>
+   <div class="row py-2 px-0 mx-0">
+      {% for p in total_platforms %}
+      {% comment %} Console {% endcomment %}
+      <a class="card sales-card col mx-1" href="{% url 'search' %}?platform={{ p.id }}">
+         <div class="gallery-img-contain">
+            <img class="gallery-image" src="{{ p.img_url }}">
+         </div>
+         <div class="text-center py-2"><strong>{{ p.title }}</strong></div>
+      </a>
+      {% endfor %}
+   </div>
+</section>
+{% endblock %}

@@ -1,0 +1,110 @@
+2020-07-13 19:54:30,651 : Successful update for <QuerySet [<Link: MLB 15 THE SHOW-PlayStation 4-EB Games>]>
+2020-07-13 19:54:36,799 : Successful update for <QuerySet [<Link: DOOM Eternal-PlayStation 4-EB Games>, <Link: DOOM Eternal-Xbox One-EB Games>, <Link: DOOM Eternal-Xbox One-EB Games>, <Link: DOOM Eternal-PC-EB Games>, <Link: DOOM Eternal-PlayStation 4-EB Games>]>
+2020-07-13 19:55:04,762 : EB_Games exception for <Game: Mario Kart 8 Deluxe>Exception('No Game Found')525
+2020-07-13 19:55:08,771 : Successful update for <QuerySet [<Link: NBA 2K20-PlayStation 4-EB Games>, <Link: NBA 2K20-Xbox One-EB Games>, <Link: NBA 2K20-Xbox One-EB Games>, <Link: NBA 2K20-PlayStation 4-EB Games>]>
+2020-07-13 19:55:17,253 : Successful update for <QuerySet [<Link: Borderlands 3-PlayStation 4-EB Games>, <Link: Borderlands 3-PlayStation 4-EB Games>, <Link: Borderlands 3-Xbox One-EB Games>, <Link: Borderlands 3-PC-EB Games>, <Link: Borderlands 3-Xbox One-EB Games>, <Link: Borderlands 3-Xbox One-EB Games>]>
+2020-07-13 19:55:45,942 : EB_Games exception for <Game: The Legend of Zelda: Link's Awakening>Exception('No Game Found')529
+2020-07-13 19:55:50,068 : Successful update for <QuerySet [<Link: Madden NFL 20-PlayStation 4-EB Games>, <Link: Madden NFL 20-Xbox One-EB Games>, <Link: Madden NFL 20-PlayStation 4-EB Games>, <Link: Madden NFL 20-Xbox One-EB Games>]>
+2020-07-13 19:55:54,763 : Successful update for <QuerySet [<Link: Tom Clancy's Ghost Recon Breakpoint-Xbox One-EB Games>, <Link: Tom Clancy's Ghost Recon Breakpoint-Xbox One-EB Games>, <Link: Tom Clancy's Ghost Recon Breakpoint-PlayStation 4-EB Games>, <Link: Tom Clancy's Ghost Recon Breakpoint-PlayStation 4-EB Games>]>
+2020-07-13 19:55:58,660 : Successful update for <QuerySet [<Link: NHL 20-PlayStation 4-EB Games>, <Link: NHL 20-Xbox One-EB Games>, <Link: NHL 20-Xbox One-EB Games>]>
+2020-07-13 19:56:26,976 : EB_Games exception for <Game: Minecraft>Exception('No Game Found')536
+2020-07-13 19:56:50,258 : EB_Games exception for <Game: Super Smash Bros. Ultimate>Exception('No Game Found')537
+2020-07-13 19:57:00,606 : Successful update for <QuerySet [<Link: Red Dead Redemption 2-PlayStation 4-EB Games>, <Link: Red Dead Redemption 2-Xbox One-EB Games>, <Link: Red Dead Redemption 2-Xbox One-EB Games>, <Link: Red Dead Redemption 2-PlayStation 4-EB Games>, <Link: Red Dead Redemption 2-Xbox One-EB Games>, <Link: Red Dead Redemption 2-Xbox One-EB Games>]>
+2020-07-13 19:57:26,250 : EB_Games exception for <Game: Tom Clancy's Rainbow Six Siege>Exception('No Game Found')540
+2020-07-13 19:57:32,882 : Successful update for <QuerySet [<Link: Plants vs. Zombies: Battle for Neighborville-PlayStation 4-EB Games>, <Link: Plants vs. Zombies: Battle for Neighborville-Xbox One-EB Games>, <Link: Plants vs. Zombies: Battle for Neighborville-PC-EB Games>, <Link: Plants vs. Zombies: Battle for Neighborville-PlayStation 4-EB Games>, <Link: Plants vs. Zombies: Battle for Neighborville-Xbox One-EB Games>]>
+2020-07-13 19:58:06,246 : EB_Games exception for <Game: Marvel's Spider-Man>Exception('No Game Found')542
+2020-07-13 19:58:07,891 : Successful update for <QuerySet [<Link: Catherine-Xbox One-EB Games>]>
+2020-07-13 19:58:39,556 : EB_Games exception for <Game: The Legend of Zelda: Breath of the Wild>Exception('No Game Found')544
+2020-07-13 19:58:41,330 : Successful update for <QuerySet [<Link: DRAGON QUEST XI: Echoes of an Elusive Age-PlayStation 4-EB Games>]>
+2020-07-13 19:58:54,238 : Successful update for <QuerySet [<Link: Fallout 4-Xbox One-EB Games>, <Link: Fallout 4-PlayStation 4-EB Games>, <Link: Fallout 4-Xbox One-EB Games>, <Link: Fallout 4-PlayStation 4-EB Games>, <Link: Fallout 4-PlayStation 4-EB Games>, <Link: Fallout 4-PC-EB Games>, <Link: Fallout 4-Xbox One-EB Games>, <Link: Fallout 4-PC-EB Games>]>
+2020-07-13 19:59:02,513 : Successful update for <QuerySet [<Link: Anthem-PlayStation 4-EB Games>, <Link: Anthem-PC-EB Games>, <Link: Anthem-Xbox One-EB Games>, <Link: Anthem-Xbox One-EB Games>, <Link: Anthem-PlayStation 4-EB Games>]>
+2020-07-13 19:59:06,402 : Successful update for <QuerySet [<Link: Overwatch-PlayStation 4-EB Games>, <Link: Overwatch-Xbox One-EB Games>]>
+2020-07-13 19:59:10,313 : Successful update for <QuerySet [<Link: Destiny 2-PlayStation 4-EB Games>, <Link: Destiny 2-Xbox One-EB Games>]>
+2020-07-13 19:59:43,659 : EB_Games exception for <Game: Apex Legends>Exception('No Game Found')553
+2020-07-13 20:00:14,575 : EB_Games exception for <Game: Warframe>Exception('No Game Found')554
+2020-07-13 20:00:45,933 : EB_Games exception for <Game: Diablo 3>Exception('No Game Found')556
+2020-07-13 20:00:53,430 : Successful update for <QuerySet [<Link: Rocket League-PlayStation 4-EB Games>, <Link: Rocket League-PlayStation 4-EB Games>, <Link: Rocket League-Xbox One-EB Games>, <Link: Rocket League-Xbox One-EB Games>]>
+2020-07-13 20:01:04,508 : Successful update for <QuerySet [<Link: Tom Clancy’s The Division 2-PC-EB Games>, <Link: Tom Clancy’s The Division 2-PlayStation 4-EB Games>, <Link: Tom Clancy’s The Division 2-Xbox One-EB Games>, <Link: Tom Clancy’s The Division 2-Xbox One-EB Games>, <Link: Tom Clancy’s The Division 2-PlayStation 4-EB Games>]>
+2020-07-13 20:01:36,772 : EB_Games exception for <Game: Fire Emblem: Three Houses>Exception('No Game Found')560
+2020-07-13 20:01:44,209 : Successful update for <QuerySet [<Link: Kingdom Hearts III-Xbox One-EB Games>, <Link: Kingdom Hearts III-PlayStation 4-EB Games>, <Link: Kingdom Hearts III-PlayStation 4-EB Games>, <Link: Kingdom Hearts III-Xbox One-EB Games>]>
+2020-07-13 20:02:15,678 : EB_Games exception for <Game: Cadence of Hyrule - Crypt of the NecroDancer Featuring the Legend of Zelda>Exception('No Game Found')562
+2020-07-13 20:02:25,767 : Successful update for <QuerySet [<Link: Metro Exodus-Xbox One-EB Games>, <Link: Metro Exodus-PlayStation 4-EB Games>, <Link: Metro Exodus-Xbox One-EB Games>, <Link: Metro Exodus-PlayStation 4-EB Games>, <Link: Metro Exodus-PC-EB Games>]>
+2020-07-13 20:02:33,950 : Successful update for <QuerySet [<Link: Sekiro: Shadows Die Twice-PlayStation 4-EB Games>, <Link: Sekiro: Shadows Die Twice-PlayStation 4-EB Games>, <Link: Sekiro: Shadows Die Twice-Xbox One-EB Games>, <Link: Sekiro: Shadows Die Twice-Xbox One-EB Games>, <Link: Sekiro: Shadows Die Twice-PC-EB Games>]>
+2020-07-13 20:02:37,864 : Successful update for <QuerySet [<Link: Days Gone-PlayStation 4-EB Games>, <Link: Days Gone-PlayStation 4-EB Games>]>
+2020-07-13 20:03:13,855 : EB_Games exception for <Game: Pokémon Sword and Shield>Exception('No Game Found')566
+2020-07-13 20:03:47,170 : EB_Games exception for <Game: Outer Wilds>Exception('No Game Found')567
+2020-07-13 20:03:53,662 : Successful update for <QuerySet [<Link: Star Wars Jedi: Fallen Order-PlayStation 4-EB Games>, <Link: Star Wars Jedi: Fallen Order-Xbox One-EB Games>, <Link: Star Wars Jedi: Fallen Order-PC-EB Games>, <Link: Star Wars Jedi: Fallen Order-PlayStation 4-EB Games>, <Link: Star Wars Jedi: Fallen Order-Xbox One-EB Games>]>
+2020-07-13 20:03:59,103 : Successful update for <QuerySet [<Link: The Outer Worlds-Xbox One-EB Games>, <Link: The Outer Worlds-PlayStation 4-EB Games>, <Link: The Outer Worlds-PlayStation 4-EB Games>, <Link: The Outer Worlds-Xbox One-EB Games>]>
+2020-07-13 20:04:03,812 : Successful update for <QuerySet [<Link: Assassin's Creed Odyssey-PlayStation 4-EB Games>, <Link: Assassin's Creed Odyssey-Xbox One-EB Games>, <Link: Assassin's Creed Odyssey-PlayStation 4-EB Games>, <Link: Assassin's Creed Odyssey-Xbox One-EB Games>]>
+2020-07-13 20:04:08,978 : Successful update for <QuerySet [<Link: Monster Hunter: World-PlayStation 4-EB Games>, <Link: Monster Hunter: World-Xbox One-EB Games>, <Link: Monster Hunter: World-Xbox One-EB Games>, <Link: Monster Hunter: World-PlayStation 4-EB Games>]>
+2020-07-13 20:04:37,768 : EB_Games exception for <Game: Into the Breach>Exception('No Game Found')576
+2020-07-13 20:05:08,228 : EB_Games exception for <Game: Celeste>Exception('No Game Found')577
+2020-07-13 20:05:13,911 : Successful update for <QuerySet [<Link: Dragon Ball Z: Kakarot-PlayStation 4-EB Games>, <Link: Dragon Ball Z: Kakarot-Xbox One-EB Games>, <Link: Dragon Ball Z: Kakarot-PlayStation 4-EB Games>, <Link: Dragon Ball Z: Kakarot-Xbox One-EB Games>]>
+2020-07-13 20:05:16,565 : Successful update for <QuerySet [<Link: Final Fantasy VII Remake-PlayStation 4-EB Games>, <Link: Final Fantasy VII Remake-PlayStation 4-EB Games>]>
+2020-07-13 20:05:52,195 : EB_Games exception for <Game: Warcraft III: Reforged>Exception('No Game Found')582
+2020-07-13 20:05:58,657 : Successful update for <QuerySet [<Link: Darksiders Genesis-PC-EB Games>, <Link: Darksiders Genesis-PlayStation 4-EB Games>, <Link: Darksiders Genesis-Xbox One-EB Games>, <Link: Darksiders Genesis-PlayStation 4-EB Games>, <Link: Darksiders Genesis-Xbox One-EB Games>]>
+2020-07-13 20:06:01,790 : Successful update for <QuerySet [<Link: Ori and the Will of the Wisps-Xbox One-EB Games>, <Link: Ori and the Will of the Wisps-Xbox One-EB Games>]>
+2020-07-13 20:06:38,828 : EB_Games exception for <Game: Totally Reliable Delivery Service>Exception('No Game Found')587
+2020-07-13 20:06:41,297 : Successful update for <QuerySet [<Link: STAR WARS Battlefront 2 (2005)-PlayStation 4-EB Games>, <Link: STAR WARS Battlefront 2 (2005)-Xbox One-EB Games>]>
+2020-07-13 20:06:46,830 : Successful update for <QuerySet [<Link: Assassin's Creed Origins-PlayStation 4-EB Games>, <Link: Assassin's Creed Origins-Xbox One-EB Games>, <Link: Assassin's Creed Origins-PlayStation 4-EB Games>, <Link: Assassin's Creed Origins-Xbox One-EB Games>]>
+2020-07-13 20:07:19,346 : EB_Games exception for <Game: Pokémon Ultra Sun, Ultra Moon>Exception('No Game Found')592
+2020-07-13 20:07:23,684 : Successful update for <QuerySet [<Link: Call of Duty: Infinite Warfare-PlayStation 4-EB Games>, <Link: Call of Duty: Infinite Warfare-PlayStation 4-EB Games>, <Link: Call of Duty: Infinite Warfare-Xbox One-EB Games>, <Link: Call of Duty: Infinite Warfare-Xbox One-EB Games>]>
+2020-07-13 20:07:29,670 : Successful update for <QuerySet [<Link: Tom Clancy’s The Division-PlayStation 4-EB Games>, <Link: Tom Clancy’s The Division-Xbox One-EB Games>, <Link: Tom Clancy’s The Division-Xbox One-EB Games>, <Link: Tom Clancy’s The Division-PlayStation 4-EB Games>]>
+2020-07-13 20:07:34,198 : Successful update for <QuerySet [<Link: FINAL FANTASY XV-PlayStation 4-EB Games>, <Link: FINAL FANTASY XV-Xbox One-EB Games>, <Link: FINAL FANTASY XV-PlayStation 4-EB Games>]>
+2020-07-13 20:07:39,343 : Successful update for <QuerySet [<Link: Titanfall 2-PlayStation 4-EB Games>, <Link: Titanfall 2-Xbox One-EB Games>, <Link: Titanfall 2-Xbox One-EB Games>]>
+2020-07-13 20:08:18,473 : EB_Games exception for <Game: Warhammer 40,000: Regicide>Exception('No Game Found')600
+2020-07-13 20:08:50,556 : Successful update for <QuerySet [<Link: MotoGP 20-PlayStation 4-EB Games>, <Link: MotoGP 20-Xbox One-EB Games>, <Link: MotoGP 20-PlayStation 4-EB Games>, <Link: MotoGP 20-Xbox One-EB Games>]>
+2020-07-13 20:09:25,866 : EB_Games exception for <Game: Mount & Blade II: Bannerlord>Exception('No Game Found')604
+2020-07-13 20:10:02,200 : EB_Games exception for <Game: XCOM: Chimera Squad>Exception('No Game Found')605
+2020-07-13 20:10:37,257 : EB_Games exception for <Game: The Jackbox Party Quintpack>Exception('No Game Found')606
+2020-07-13 20:11:10,540 : EB_Games exception for <Game: The Jackbox Party Pack 2>Exception('No Game Found')608
+2020-07-13 20:11:45,527 : EB_Games exception for <Game: The Jackbox Party Pack 3>Exception('No Game Found')609
+2020-07-13 20:12:20,172 : EB_Games exception for <Game: The Jackbox Party Pack 4>Exception('No Game Found')610
+2020-07-13 20:12:56,454 : EB_Games exception for <Game: The Jackbox Party Pack 5>Exception('No Game Found')611
+2020-07-13 20:13:29,583 : EB_Games exception for <Game: Tabletop Simulator>Exception('No Game Found')613
+2020-07-13 20:13:37,221 : Successful update for <QuerySet [<Link: The Elder Scrolls Online: Tamriel Unlimited-PlayStation 4-EB Games>, <Link: The Elder Scrolls Online: Tamriel Unlimited-Xbox One-EB Games>, <Link: The Elder Scrolls Online: Tamriel Unlimited-PlayStation 4-EB Games>, <Link: The Elder Scrolls Online: Tamriel Unlimited-Xbox One-EB Games>, <Link: The Elder Scrolls Online: Tamriel Unlimited-PC-EB Games>]>
+2020-07-13 20:14:14,317 : EB_Games exception for <Game: Total War: THREE KINGDOMS>Exception('No Game Found')616
+2020-07-13 20:14:16,849 : Successful update for <QuerySet [<Link: Dead by Daylight-PlayStation 4-EB Games>, <Link: Dead by Daylight-Xbox One-EB Games>]>
+2020-07-13 20:14:19,544 : Successful update for <QuerySet [<Link: FINAL FANTASY XIV: Shadowbringers-PC-EB Games>, <Link: FINAL FANTASY XIV: Shadowbringers-PlayStation 4-EB Games>]>
+2020-07-13 20:14:21,154 : Successful update for <QuerySet [<Link: Halo: The Master Chief Collection-Xbox One-EB Games>]>
+2020-07-13 20:14:57,781 : EB_Games exception for <Game: Cities: Skylines>Exception('No Game Found')622
+2020-07-13 20:15:35,118 : EB_Games exception for <Game: No Man's Sky>Exception('No Game Found')623
+2020-07-13 20:15:40,663 : Successful update for <QuerySet [<Link: Shadow of the Tomb Raider-PlayStation 4-EB Games>, <Link: Shadow of the Tomb Raider-Xbox One-EB Games>, <Link: Shadow of the Tomb Raider-Xbox One-EB Games>, <Link: Shadow of the Tomb Raider-PlayStation 4-EB Games>]>
+2020-07-13 20:15:49,082 : Successful update for <QuerySet [<Link: The Witcher 3: Wild Hunt-PlayStation 4-EB Games>, <Link: The Witcher 3: Wild Hunt-PlayStation 4-EB Games>, <Link: The Witcher 3: Wild Hunt-Xbox One-EB Games>, <Link: The Witcher 3: Wild Hunt-PlayStation 4-EB Games>, <Link: The Witcher 3: Wild Hunt-Xbox One-EB Games>, <Link: The Witcher 3: Wild Hunt-Xbox One-EB Games>]>
+2020-07-13 20:15:53,848 : Successful update for <QuerySet [<Link: FIFA 20-PlayStation 4-EB Games>, <Link: FIFA 20-Xbox One-EB Games>, <Link: FIFA 20-Xbox One-EB Games>, <Link: FIFA 20-PlayStation 4-EB Games>]>
+2020-07-13 20:16:27,493 : EB_Games exception for <Game: Animal Crossing: New Horizons>Exception('No Game Found')519
+2020-07-13 20:17:03,397 : EB_Games exception for <Game: Resident Evil 3>Exception('No Game Found')521
+2020-07-13 20:17:06,302 : Successful update for <QuerySet [<Link: Persona 5 Royal-PlayStation 4-EB Games>, <Link: Persona 5 Royal-PlayStation 4-EB Games>]>
+2020-07-13 20:17:08,774 : Successful update for <QuerySet [<Link: Grand Theft Auto V-PlayStation 4-EB Games>, <Link: Grand Theft Auto V-Xbox One-EB Games>]>
+2020-07-13 20:17:10,782 : Successful update for <QuerySet [<Link: Gears 5-Xbox One-EB Games>, <Link: Gears 5-Xbox One-EB Games>]>
+2020-07-13 20:17:16,420 : Successful update for <QuerySet [<Link: CODE VEIN-PlayStation 4-EB Games>, <Link: CODE VEIN-PlayStation 4-EB Games>, <Link: CODE VEIN-Xbox One-EB Games>, <Link: CODE VEIN-Xbox One-EB Games>]>
+2020-07-13 20:17:21,482 : Successful update for <QuerySet [<Link: Spyro Reignited Trilogy-PlayStation 4-EB Games>, <Link: Spyro Reignited Trilogy-Xbox One-EB Games>, <Link: Spyro Reignited Trilogy-PlayStation 4-EB Games>, <Link: Spyro Reignited Trilogy-Xbox One-EB Games>]>
+2020-07-13 20:17:51,087 : EB_Games exception for <Game: God of War (2005)>Exception('No Game Found')545
+2020-07-13 20:18:24,223 : Successful update for [<Link: The Sims 4-PC-EB Games>, <Link: The Sims 4-PlayStation 4-EB Games>, <Link: The Sims 4-Xbox One-EB Games>, <Link: The Sims 4-PlayStation 4-EB Games>, <Link: The Sims 4-Xbox One-EB Games>]
+2020-07-13 20:18:59,289 : Successful update for [<Link: PlayerUnknown’s Battlegrounds-PlayStation 4-EB Games>, <Link: PlayerUnknown’s Battlegrounds-Xbox One-EB Games>, <Link: PlayerUnknown’s Battlegrounds-Xbox One-EB Games>, <Link: PlayerUnknown’s Battlegrounds-PlayStation 4-EB Games>]
+2020-07-13 20:19:40,171 : Successful update for [<Link: Call of Duty: Black Ops 4-Xbox One-EB Games>, <Link: Call of Duty: Black Ops 4-PlayStation 4-EB Games>, <Link: Call of Duty: Black Ops 4-Xbox One-EB Games>, <Link: Call of Duty: Black Ops 4-PlayStation 4-EB Games>, <Link: Call of Duty: Black Ops 4-Xbox One-EB Games>, <Link: Call of Duty: Black Ops 4-PC-EB Games>]
+2020-07-13 20:20:19,739 : Successful update for [<Link: Battlefield V-PlayStation 4-EB Games>, <Link: Battlefield V-PC-EB Games>, <Link: Battlefield V-Xbox One-EB Games>, <Link: Battlefield V-Xbox One-EB Games>, <Link: Battlefield V-PlayStation 4-EB Games>]
+2020-07-13 20:20:52,841 : EB_Games exception for <Game: Luigi's Mansion>Exception('No Game Found')568
+2020-07-13 20:21:26,820 : EB_Games exception for <Game: Disco Elysium>Exception('No Game Found')569
+2020-07-13 20:22:08,636 : Successful update for [<Link: Resident Evil 2-PlayStation 4-EB Games>, <Link: Resident Evil 2-Xbox One-EB Games>, <Link: Resident Evil 2-Xbox One-EB Games>, <Link: Resident Evil 2-PC-EB Games>, <Link: Resident Evil 2-PlayStation 4-EB Games>]
+2020-07-13 20:22:42,770 : EB_Games exception for <Game: Mission Control: NanoMech>Exception('No Game Found')573
+2020-07-13 20:23:25,188 : Successful update for [<Link: Far Cry 5-PlayStation 4-EB Games>, <Link: Far Cry 5-Xbox One-EB Games>, <Link: Far Cry 5-PlayStation 4-EB Games>, <Link: Far Cry 5-Xbox One-EB Games>]
+2020-07-13 20:24:03,893 : Successful update for [<Link: DRAGON BALL FighterZ-PlayStation 4-EB Games>, <Link: DRAGON BALL FighterZ-Xbox One-EB Games>, <Link: DRAGON BALL FighterZ-PlayStation 4-EB Games>, <Link: DRAGON BALL FighterZ-Xbox One-EB Games>]
+2020-07-13 20:24:43,324 : Successful update for [<Link: Pillars of Eternity II: Deadfire-PlayStation 4-EB Games>, <Link: Pillars of Eternity II: Deadfire-Xbox One-EB Games>, <Link: Pillars of Eternity II: Deadfire-PlayStation 4-EB Games>, <Link: Pillars of Eternity II: Deadfire-Xbox One-EB Games>]
+2020-07-13 20:25:21,929 : Successful update for [<Link: Two Point Hospital-PlayStation 4-EB Games>, <Link: Two Point Hospital-Xbox One-EB Games>, <Link: Two Point Hospital-PlayStation 4-EB Games>, <Link: Two Point Hospital-Xbox One-EB Games>]
+2020-07-13 20:26:01,577 : Successful update for [<Link: Call of Duty: WWII-Xbox One-EB Games>, <Link: Call of Duty: WWII-PlayStation 4-EB Games>, <Link: Call of Duty: WWII-PlayStation 4-EB Games>, <Link: Call of Duty: WWII-Xbox One-EB Games>]
+2020-07-13 20:26:38,371 : EB_Games exception for <Game: Xenoblade Chronicles 2>Exception('No Game Found')591
+2020-07-13 20:27:14,874 : Successful update for [<Link: Tom Clancy's Ghost Recon Wildlands-Xbox One-EB Games>, <Link: Tom Clancy's Ghost Recon Wildlands-PlayStation 4-EB Games>, <Link: Tom Clancy's Ghost Recon Wildlands-PlayStation 4-EB Games>, <Link: Tom Clancy's Ghost Recon Wildlands-Xbox One-EB Games>]
+2020-07-13 20:27:51,335 : Successful update for [<Link: Battlefield 1-PlayStation 4-EB Games>, <Link: Battlefield 1-Xbox One-EB Games>]
+2020-07-13 20:28:31,297 : Successful update for [<Link: Call of Duty: Black Ops III-PlayStation 4-EB Games>, <Link: Call of Duty: Black Ops III-Xbox One-EB Games>, <Link: Call of Duty: Black Ops III-Xbox One-EB Games>, <Link: Call of Duty: Black Ops III-Xbox One-EB Games>, <Link: Call of Duty: Black Ops III-PlayStation 4-EB Games>]
+2020-07-13 20:29:04,293 : EB_Games exception for <Game: Total War: WARHAMMER II>Exception('No Game Found')602
+2020-07-13 20:29:37,875 : EB_Games exception for <Game: Half-Life: Alyx>Exception('No Game Found')603
+2020-07-13 20:30:16,762 : Successful update for [<Link: The Jackbox Party Pack-Xbox One-EB Games>, <Link: The Jackbox Party Pack-PlayStation 4-EB Games>]
+2020-07-13 20:30:45,958 : EB_Games exception for <Game: The Jackbox Party Pack 6>Exception('No Game Found')612
+2020-07-13 20:31:22,330 : Successful update for [<Link: Fallout 76-PlayStation 4-EB Games>, <Link: Fallout 76-Xbox One-EB Games>]
+2020-07-13 20:31:57,339 : EB_Games exception for <Game: Planet Zoo>Exception('No Game Found')621
+2020-07-13 20:32:30,933 : EB_Games exception for <Game: Mario Kart 8>Exception('No Game Found')535
+2020-07-13 20:33:18,162 : Successful update for [<Link: Call of Duty: Modern Warfare (2019)-PlayStation 4-EB Games>, <Link: Call of Duty: Modern Warfare (2019)-Xbox One-EB Games>, <Link: Call of Duty: Modern Warfare (2019)-PlayStation 4-EB Games>, <Link: Call of Duty: Modern Warfare (2019)-Xbox One-EB Games>, <Link: Call of Duty: Modern Warfare (2019)-Xbox One-EB Games>, <Link: Call of Duty: Modern Warfare (2019)-Xbox One-EB Games>, <Link: Call of Duty: Modern Warfare (2019)-Xbox One-EB Games>]
+2020-07-13 20:33:18,172 : Start Time datetime.timedelta(days=18456, seconds=42869, microseconds=505151)
+2020-07-13 20:33:18,173 : End Time datetime.timedelta(days=18456, seconds=45198, microseconds=171354)
+2020-07-13 20:33:18,175 : Time taken: datetime.timedelta(seconds=2328, microseconds=666203)

@@ -1,0 +1,110 @@
+2020-07-13 19:54:18,816 : Kinguin exception for <Game: MLB 15 THE SHOW>UnboundLocalError("local variable 'current_link' referenced before assignment")520
+2020-07-13 19:54:24,820 : Successful update for <Link: DOOM Eternal-PC-Kinguin>
+2020-07-13 19:54:27,604 : Kinguin exception for <Game: Mario Kart 8 Deluxe>UnboundLocalError("local variable 'current_link' referenced before assignment")525
+2020-07-13 19:54:35,461 : Successful update for <Link: NBA 2K20-PC-Kinguin>
+2020-07-13 19:54:43,215 : Successful update for <Link: Borderlands 3-PC-Kinguin>
+2020-07-13 19:54:47,255 : Kinguin exception for <Game: The Legend of Zelda: Link's Awakening>UnboundLocalError("local variable 'current_link' referenced before assignment")529
+2020-07-13 19:54:52,446 : Successful update for <Link: Madden NFL 20-PC-Kinguin>
+2020-07-13 19:54:54,981 : Kinguin exception for <Game: Tom Clancy's Ghost Recon Breakpoint>UnboundLocalError("local variable 'current_link' referenced before assignment")531
+2020-07-13 19:54:56,816 : Kinguin exception for <Game: NHL 20>UnboundLocalError("local variable 'current_link' referenced before assignment")534
+2020-07-13 19:54:59,659 : Kinguin exception for <Game: Minecraft>UnboundLocalError("local variable 'current_link' referenced before assignment")536
+2020-07-13 19:55:02,325 : Kinguin exception for <Game: Super Smash Bros. Ultimate>UnboundLocalError("local variable 'current_link' referenced before assignment")537
+2020-07-13 19:55:12,692 : Successful update for <Link: Red Dead Redemption 2-PC-Kinguin>
+2020-07-13 19:55:20,352 : Successful update for <Link: Tom Clancy's Rainbow Six Siege-PC-Kinguin>
+2020-07-13 19:55:22,723 : Kinguin exception for <Game: Plants vs. Zombies: Battle for Neighborville>UnboundLocalError("local variable 'current_link' referenced before assignment")541
+2020-07-13 19:55:25,072 : Kinguin exception for <Game: Marvel's Spider-Man>UnboundLocalError("local variable 'current_link' referenced before assignment")542
+2020-07-13 19:55:27,449 : Kinguin exception for <Game: Catherine>UnboundLocalError("local variable 'current_link' referenced before assignment")543
+2020-07-13 19:55:30,529 : Kinguin exception for <Game: The Legend of Zelda: Breath of the Wild>UnboundLocalError("local variable 'current_link' referenced before assignment")544
+2020-07-13 19:55:33,838 : Kinguin exception for <Game: DRAGON QUEST XI: Echoes of an Elusive Age>UnboundLocalError("local variable 'current_link' referenced before assignment")546
+2020-07-13 19:55:46,302 : Successful update for <Link: Fallout 4-PC-Kinguin>
+2020-07-13 19:55:50,853 : Successful update for <Link: Anthem-PC-Kinguin>
+2020-07-13 19:55:52,568 : Kinguin exception for <Game: Overwatch>UnboundLocalError("local variable 'current_link' referenced before assignment")550
+2020-07-13 19:55:54,666 : Kinguin exception for <Game: Destiny 2>UnboundLocalError("local variable 'current_link' referenced before assignment")552
+2020-07-13 19:55:57,239 : Kinguin exception for <Game: Apex Legends>UnboundLocalError("local variable 'current_link' referenced before assignment")553
+2020-07-13 19:55:58,989 : Kinguin exception for <Game: Warframe>UnboundLocalError("local variable 'current_link' referenced before assignment")554
+2020-07-13 19:56:01,524 : Kinguin exception for <Game: Diablo 3>UnboundLocalError("local variable 'current_link' referenced before assignment")556
+2020-07-13 19:56:10,955 : Successful update for <Link: Rocket League-PC-Kinguin>
+2020-07-13 19:56:14,209 : Kinguin exception for <Game: Tom Clancy’s The Division 2>UnboundLocalError("local variable 'current_link' referenced before assignment")559
+2020-07-13 19:56:26,911 : Kinguin exception for <Game: Fire Emblem: Three Houses>UnboundLocalError("local variable 'current_link' referenced before assignment")560
+2020-07-13 19:56:29,023 : Kinguin exception for <Game: Kingdom Hearts III>UnboundLocalError("local variable 'current_link' referenced before assignment")561
+2020-07-13 19:56:37,455 : Kinguin exception for <Game: Cadence of Hyrule - Crypt of the NecroDancer Featuring the Legend of Zelda>UnboundLocalError("local variable 'current_link' referenced before assignment")562
+2020-07-13 19:56:47,113 : Successful update for <Link: Metro Exodus-PC-Kinguin>
+2020-07-13 19:56:52,212 : Successful update for <Link: Sekiro: Shadows Die Twice-PC-Kinguin>
+2020-07-13 19:56:54,146 : Kinguin exception for <Game: Days Gone>UnboundLocalError("local variable 'current_link' referenced before assignment")565
+2020-07-13 19:57:00,563 : Kinguin exception for <Game: Pokémon Sword and Shield>UnboundLocalError("local variable 'current_link' referenced before assignment")566
+2020-07-13 19:57:05,611 : Successful update for <Link: Outer Wilds-PC-Kinguin>
+2020-07-13 19:57:07,992 : Kinguin exception for <Game: Star Wars Jedi: Fallen Order>UnboundLocalError("local variable 'current_link' referenced before assignment")570
+2020-07-13 19:57:10,645 : Kinguin exception for <Game: The Outer Worlds>UnboundLocalError("local variable 'current_link' referenced before assignment")572
+2020-07-13 19:57:16,231 : Successful update for <Link: Assassin's Creed Odyssey-PC-Kinguin>
+2020-07-13 19:57:23,958 : Successful update for <Link: Monster Hunter: World-PC-Kinguin>
+2020-07-13 19:57:29,097 : Successful update for <Link: Into the Breach-PC-Kinguin>
+2020-07-13 19:57:33,939 : Successful update for <Link: Celeste-PC-Kinguin>
+2020-07-13 19:57:42,069 : Successful update for <Link: Dragon Ball Z: Kakarot-PC-Kinguin>
+2020-07-13 19:57:43,874 : Kinguin exception for <Game: Final Fantasy VII Remake>UnboundLocalError("local variable 'current_link' referenced before assignment")581
+2020-07-13 19:57:45,664 : Kinguin exception for <Game: Warcraft III: Reforged>UnboundLocalError("local variable 'current_link' referenced before assignment")582
+2020-07-13 19:57:53,260 : Successful update for <Link: Darksiders Genesis-PC-Kinguin>
+2020-07-13 19:57:58,884 : Successful update for <Link: Ori and the Will of the Wisps-PC-Kinguin>
+2020-07-13 19:58:01,381 : Kinguin exception for <Game: Totally Reliable Delivery Service>UnboundLocalError("local variable 'current_link' referenced before assignment")587
+2020-07-13 19:58:04,319 : Kinguin exception for <Game: STAR WARS Battlefront 2 (2005)>UnboundLocalError("local variable 'current_link' referenced before assignment")589
+2020-07-13 19:58:06,983 : Kinguin exception for <Game: Assassin's Creed Origins>UnboundLocalError("local variable 'current_link' referenced before assignment")590
+2020-07-13 19:58:09,648 : Kinguin exception for <Game: Pokémon Ultra Sun, Ultra Moon>UnboundLocalError("local variable 'current_link' referenced before assignment")592
+2020-07-13 19:58:11,930 : Kinguin exception for <Game: Call of Duty: Infinite Warfare>UnboundLocalError("local variable 'current_link' referenced before assignment")594
+2020-07-13 19:58:17,469 : Successful update for <Link: Tom Clancy’s The Division-PC-Kinguin>
+2020-07-13 19:58:20,285 : Kinguin exception for <Game: FINAL FANTASY XV>UnboundLocalError("local variable 'current_link' referenced before assignment")598
+2020-07-13 19:58:25,714 : Successful update for <Link: Titanfall 2-PC-Kinguin>
+2020-07-13 19:58:30,760 : Successful update for <Link: Warhammer 40,000: Regicide-PC-Kinguin>
+2020-07-13 19:58:38,483 : Successful update for <Link: MotoGP 20-PC-Kinguin>
+2020-07-13 19:58:40,296 : Kinguin exception for <Game: Mount & Blade II: Bannerlord>UnboundLocalError("local variable 'current_link' referenced before assignment")604
+2020-07-13 19:58:45,275 : Successful update for <Link: XCOM: Chimera Squad-PC-Kinguin>
+2020-07-13 19:58:51,157 : Successful update for <Link: The Jackbox Party Quintpack-PC-Kinguin>
+2020-07-13 19:58:57,492 : Successful update for <Link: The Jackbox Party Pack 2-PC-Kinguin>
+2020-07-13 19:59:07,289 : Successful update for <Link: The Jackbox Party Pack 3-PC-Kinguin>
+2020-07-13 19:59:13,448 : Successful update for <Link: The Jackbox Party Pack 4-PC-Kinguin>
+2020-07-13 19:59:22,290 : Successful update for <Link: The Jackbox Party Pack 5-PC-Kinguin>
+2020-07-13 19:59:32,319 : Successful update for <Link: Tabletop Simulator-PC-Kinguin>
+2020-07-13 19:59:43,492 : Successful update for <Link: The Elder Scrolls Online: Tamriel Unlimited-PC-Kinguin>
+2020-07-13 19:59:50,507 : Successful update for <Link: Total War: THREE KINGDOMS-PC-Kinguin>
+2020-07-13 20:00:01,514 : Successful update for <Link: Dead by Daylight-PC-Kinguin>
+2020-07-13 20:00:04,000 : Kinguin exception for <Game: FINAL FANTASY XIV: Shadowbringers>UnboundLocalError("local variable 'current_link' referenced before assignment")618
+2020-07-13 20:00:10,845 : Successful update for <Link: Halo: The Master Chief Collection-PC-Kinguin>
+2020-07-13 20:00:21,076 : Successful update for <Link: Cities: Skylines-PC-Kinguin>
+2020-07-13 20:00:28,420 : Successful update for <Link: No Man's Sky-PC-Kinguin>
+2020-07-13 20:00:34,804 : Successful update for <Link: Shadow of the Tomb Raider-PC-Kinguin>
+2020-07-13 20:00:47,993 : Successful update for <Link: The Witcher 3: Wild Hunt-PC-Kinguin>
+2020-07-13 20:00:54,013 : Successful update for <Link: FIFA 20-PC-Kinguin>
+2020-07-13 20:00:56,181 : Kinguin exception for <Game: Animal Crossing: New Horizons>UnboundLocalError("local variable 'current_link' referenced before assignment")519
+2020-07-13 20:01:02,421 : Successful update for <Link: Resident Evil 3-PC-Kinguin>
+2020-07-13 20:01:05,171 : Kinguin exception for <Game: Persona 5 Royal>UnboundLocalError("local variable 'current_link' referenced before assignment")523
+2020-07-13 20:01:13,333 : Successful update for <Link: Grand Theft Auto V-PC-Kinguin>
+2020-07-13 20:01:18,608 : Successful update for <Link: Gears 5-PC-Kinguin>
+2020-07-13 20:01:22,936 : Successful update for <Link: CODE VEIN-PC-Kinguin>
+2020-07-13 20:01:25,305 : Kinguin exception for <Game: Spyro Reignited Trilogy>UnboundLocalError("local variable 'current_link' referenced before assignment")538
+2020-07-13 20:01:28,567 : Kinguin exception for <Game: God of War (2005)>UnboundLocalError("local variable 'current_link' referenced before assignment")545
+2020-07-13 20:01:36,972 : Successful update for <Link: The Sims 4-PC-Kinguin>
+2020-07-13 20:01:40,252 : Kinguin exception for <Game: PlayerUnknown’s Battlegrounds>UnboundLocalError("local variable 'current_link' referenced before assignment")551
+2020-07-13 20:01:43,839 : Kinguin exception for <Game: Call of Duty: Black Ops 4>UnboundLocalError("local variable 'current_link' referenced before assignment")555
+2020-07-13 20:01:48,687 : Successful update for <Link: Battlefield V-PC-Kinguin>
+2020-07-13 20:01:50,585 : Kinguin exception for <Game: Luigi's Mansion>UnboundLocalError("local variable 'current_link' referenced before assignment")568
+2020-07-13 20:01:55,731 : Successful update for <Link: Disco Elysium-PC-Kinguin>
+2020-07-13 20:01:58,422 : Kinguin exception for <Game: Resident Evil 2>UnboundLocalError("local variable 'current_link' referenced before assignment")571
+2020-07-13 20:02:03,760 : Successful update for <Link: Mission Control: NanoMech-PC-Kinguin>
+2020-07-13 20:02:09,418 : Successful update for <Link: Far Cry 5-PC-Kinguin>
+2020-07-13 20:02:14,518 : Successful update for <Link: DRAGON BALL FighterZ-PC-Kinguin>
+2020-07-13 20:02:24,158 : Successful update for <Link: Pillars of Eternity II: Deadfire-PC-Kinguin>
+2020-07-13 20:02:32,446 : Successful update for <Link: Two Point Hospital-PC-Kinguin>
+2020-07-13 20:02:35,858 : Kinguin exception for <Game: Call of Duty: WWII>UnboundLocalError("local variable 'current_link' referenced before assignment")588
+2020-07-13 20:02:38,236 : Kinguin exception for <Game: Xenoblade Chronicles 2>UnboundLocalError("local variable 'current_link' referenced before assignment")591
+2020-07-13 20:02:46,562 : Successful update for <Link: Tom Clancy's Ghost Recon Wildlands-PC-Kinguin>
+2020-07-13 20:02:51,405 : Successful update for <Link: Battlefield 1-PC-Kinguin>
+2020-07-13 20:02:54,724 : Kinguin exception for <Game: Call of Duty: Black Ops III>UnboundLocalError("local variable 'current_link' referenced before assignment")597
+2020-07-13 20:03:02,247 : Successful update for <Link: Total War: WARHAMMER II-PC-Kinguin>
+2020-07-13 20:03:07,823 : Successful update for <Link: Half-Life: Alyx-PC-Kinguin>
+2020-07-13 20:03:13,701 : Successful update for <Link: The Jackbox Party Pack-PC-Kinguin>
+2020-07-13 20:03:21,369 : Successful update for <Link: The Jackbox Party Pack 6-PC-Kinguin>
+2020-07-13 20:03:26,445 : Successful update for <Link: Fallout 76-PC-Kinguin>
+2020-07-13 20:03:33,878 : Successful update for <Link: Planet Zoo-PC-Kinguin>
+2020-07-13 20:03:36,669 : Kinguin exception for <Game: Mario Kart 8>UnboundLocalError("local variable 'current_link' referenced before assignment")535
+2020-07-13 20:03:38,912 : Kinguin exception for <Game: Call of Duty: Modern Warfare (2019)>UnboundLocalError("local variable 'current_link' referenced before assignment")518
+2020-07-13 20:03:38,915 : Start Time datetime.timedelta(days=18456, seconds=42855, microseconds=330147)
+2020-07-13 20:03:38,920 : End Time datetime.timedelta(days=18456, seconds=43418, microseconds=915751)
+2020-07-13 20:03:38,922 : Time taken: datetime.timedelta(seconds=563, microseconds=585604)
