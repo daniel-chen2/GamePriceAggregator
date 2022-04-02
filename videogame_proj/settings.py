@@ -182,8 +182,6 @@ django_heroku.settings(locals())
 import dj_database_url
 db_from_env = dj_database_url.config(conn_max_age=500)
 DATABASES['default'].update(db_from_env)
-# DATABASES['default'] = dj_database_url.config(default='postgres://bguswiwuiifshb:da04a4f61bbb0bf0daa1ee265e0c0e78bddc0a74e76cdb178701dee09d5bc2f7@ec2-35-153-12-59.compute-1.amazonaws.com:5432/d537min9ae5h4o')
-
 
 # Initialise Cache
 import os
